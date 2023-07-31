@@ -1,0 +1,3193 @@
+ngrams,class
+Identifier Program ExpressionStatement CallExpression,1
+ExpressionStatement CallExpression MemberExpression FunctionExpression,1
+ObjectExpression Property FunctionExpression BlockStatement,1
+Program ExpressionStatement CallExpression MemberExpression,1
+ExpressionStatement AssignmentExpression FunctionExpression BlockStatement,1
+"VariableDeclaration VariableDeclarator CallExpression ObjectExpression
+",1
+"CallExpression ObjectExpression Program FunctionDeclaration
+",1
+"BinaryExpression BinaryExpression MemberExpression CallExpression
+",1
+"VariableDeclarator BinaryExpression BinaryExpression MemberExpression
+",1
+"VariableDeclarator BinaryExpression UnaryExpression Literal
+",1
+"BinaryExpression BinaryExpression BinaryExpression MemberExpression
+",1
+"ExpressionStatement CallExpression CallExpression BinaryExpression
+",1
+"CallExpression CallExpression BinaryExpression BinaryExpression
+",1
+"IfStatement ExpressionStatement CallExpression CallExpression
+",1
+"BinaryExpression BinaryExpression CallExpression CallExpression
+",1
+"CallExpression CallExpression BinaryExpression MemberExpression
+",1
+"FunctionExpression Identifier Program FunctionDeclaration
+",1
+"VariableDeclarator LogicalExpression UnaryExpression MemberExpression
+",1
+"VariableDeclaration VariableDeclarator LogicalExpression UnaryExpression
+",1
+"IfStatement BlockStatement SwitchStatement MemberExpression
+",1
+"SwitchStatement MemberExpression Identifier Program
+",1
+"SwitchStatement SwitchCase IfStatement LogicalExpression
+",1
+"SwitchCase IfStatement LogicalExpression BinaryExpression
+",1
+"SwitchStatement SwitchCase IfStatement ExpressionStatement
+",1
+"SwitchCase IfStatement ExpressionStatement CallExpression
+",1
+"SwitchStatement SwitchCase ReturnStatement Program
+",1
+"AssignmentExpression MemberExpression MemberExpression Literal
+",1
+"BinaryExpression MemberExpression MemberExpression Literal
+",1
+"IfStatement BinaryExpression UnaryExpression Literal
+",1
+"LogicalExpression BinaryExpression CallExpression MemberExpression
+",1
+"ReturnStatement CallExpression NewExpression Identifier
+",1
+"BlockStatement ReturnStatement CallExpression NewExpression
+",1
+"CallExpression NewExpression BinaryExpression BinaryExpression
+",1
+"ReturnStatement CallExpression NewExpression BinaryExpression
+",1
+"CallExpression NewExpression BinaryExpression Literal
+",1
+"IfStatement BlockStatement ReturnStatement AssignmentExpression
+",1
+"BlockStatement ReturnStatement AssignmentExpression Identifier
+",1
+"IfStatement ExpressionStatement AssignmentExpression BinaryExpression
+",1
+"VariableDeclarator NewExpression BinaryExpression BinaryExpression
+",1
+"ForInStatement Identifier Program FunctionDeclaration
+",1
+"IfStatement BinaryExpression BinaryExpression Identifier
+",1
+"VariableDeclarator MemberExpression MemberExpression CallExpression
+",1
+"MemberExpression CallExpression BinaryExpression MemberExpression
+",1
+"BlockStatement ReturnStatement Program FunctionDeclaration
+",1
+"AssignmentExpression BinaryExpression UnaryExpression Literal
+",1
+"ExpressionStatement CallExpression ObjectExpression Program
+",1
+"ObjectExpression Program FunctionDeclaration BlockStatement
+",1
+"VariableDeclarator CallExpression BinaryExpression MemberExpression
+",1
+"ExpressionStatement AssignmentExpression BinaryExpression UnaryExpression
+",1
+"BlockStatement IfStatement ReturnStatement Identifier
+",1
+"IfStatement BlockStatement ForInStatement Identifier
+",1
+"BlockStatement ForInStatement BlockStatement VariableDeclaration
+",1
+"VariableDeclaration VariableDeclarator LogicalExpression LogicalExpression
+",1
+"LogicalExpression LogicalExpression LogicalExpression LogicalExpression
+",1
+"LogicalExpression LogicalExpression LogicalExpression MemberExpression
+",1
+"VariableDeclarator LogicalExpression LogicalExpression LogicalExpression
+",1
+"VariableDeclarator LogicalExpression LogicalExpression MemberExpression
+",1
+"VariableDeclaration VariableDeclarator AssignmentExpression MemberExpression
+",1
+"VariableDeclaration VariableDeclarator AssignmentExpression FunctionExpression
+",1
+"BlockStatement VariableDeclaration VariableDeclarator AssignmentExpression
+",1
+"VariableDeclarator AssignmentExpression FunctionExpression BlockStatement
+",1
+"ConditionalExpression BinaryExpression UnaryExpression Literal
+",1
+"AssignmentExpression ConditionalExpression FunctionExpression Identifier
+",1
+"ExpressionStatement AssignmentExpression ConditionalExpression FunctionExpression
+",1
+"ConditionalExpression FunctionExpression BlockStatement ReturnStatement
+",1
+"AssignmentExpression ConditionalExpression FunctionExpression BlockStatement
+",1
+"ExpressionStatement AssignmentExpression LogicalExpression ArrayExpression
+",1
+"LogicalExpression ArrayExpression Literal Program
+",1
+"AssignmentExpression LogicalExpression ArrayExpression Literal
+",1
+"AssignmentExpression AssignmentExpression MemberExpression Identifier
+",1
+"ExpressionStatement AssignmentExpression AssignmentExpression AssignmentExpression
+",1
+"AssignmentExpression AssignmentExpression MemberExpression ThisExpression
+",1
+"AssignmentExpression AssignmentExpression AssignmentExpression MemberExpression
+",1
+"AssignmentExpression AssignmentExpression AssignmentExpression AssignmentExpression
+",1
+"AssignmentExpression AssignmentExpression AssignmentExpression Literal
+",1
+"BinaryExpression BinaryExpression UnaryExpression MemberExpression
+",1
+"AssignmentExpression BinaryExpression BinaryExpression UnaryExpression
+",1
+"ExpressionStatement CallExpression LogicalExpression MemberExpression
+",1
+"CallExpression LogicalExpression Literal Program
+",1
+"CallExpression CallExpression UnaryExpression Literal
+",1
+"FunctionExpression BlockStatement ReturnStatement ThisExpression
+",1
+"ReturnStatement ThisExpression Program ExpressionStatement
+",1
+"VariableDeclarator ObjectExpression Property BinaryExpression
+",1
+"Property BinaryExpression BinaryExpression Literal
+",1
+"Property BinaryExpression BinaryExpression MemberExpression
+",1
+"ObjectExpression Property BinaryExpression BinaryExpression
+",1
+"Property BinaryExpression Literal Program
+",1
+"ObjectExpression Property BinaryExpression MemberExpression
+",1
+"ObjectExpression Property BinaryExpression Literal
+",1
+"Property BinaryExpression MemberExpression ThisExpression
+",1
+"Property BinaryExpression MemberExpression Identifier
+",1
+"FunctionExpression BlockStatement ForInStatement ExpressionStatement
+",1
+"ForInStatement ExpressionStatement AssignmentExpression MemberExpression
+",1
+"BlockStatement ForInStatement ExpressionStatement AssignmentExpression
+",1
+"BlockStatement ExpressionStatement LogicalExpression BinaryExpression
+",1
+"LogicalExpression BinaryExpression UnaryExpression Literal
+",1
+"ExpressionStatement LogicalExpression AssignmentExpression Identifier
+",1
+"BlockStatement ExpressionStatement LogicalExpression AssignmentExpression
+",1
+"LogicalExpression AssignmentExpression MemberExpression ThisExpression
+",1
+"LogicalExpression AssignmentExpression MemberExpression Identifier
+",1
+"ReturnStatement ConditionalExpression BinaryExpression Literal
+",1
+"ConditionalExpression BinaryExpression UnaryExpression MemberExpression
+",1
+"ReturnStatement ConditionalExpression BinaryExpression UnaryExpression
+",1
+"ConditionalExpression CallExpression MemberExpression MemberExpression
+",1
+"ReturnStatement ConditionalExpression CallExpression MemberExpression
+",1
+"ConditionalExpression CallExpression ThisExpression Program
+",1
+"ReturnStatement ConditionalExpression CallExpression Identifier
+",1
+"MemberExpression CallExpression MemberExpression ThisExpression
+",1
+"MemberExpression CallExpression UnaryExpression Literal
+",1
+"BlockStatement ExpressionStatement CallExpression UnaryExpression
+",1
+"BinaryExpression BinaryExpression MemberExpression ThisExpression
+",1
+"ConditionalExpression BinaryExpression BinaryExpression MemberExpression
+",1
+"VariableDeclarator ConditionalExpression BinaryExpression MemberExpression
+",1
+"ReturnStatement CallExpression MemberExpression ArrayExpression
+",1
+"MemberExpression ArrayExpression BinaryExpression MemberExpression
+",1
+"MemberExpression ArrayExpression BinaryExpression BinaryExpression
+",1
+"CallExpression MemberExpression ArrayExpression BinaryExpression
+",1
+"ArrayExpression BinaryExpression BinaryExpression MemberExpression
+",1
+"MemberExpression ArrayExpression MemberExpression ThisExpression
+",1
+"CallExpression MemberExpression ArrayExpression MemberExpression
+",1
+"ArrayExpression BinaryExpression BinaryExpression CallExpression
+",1
+"MemberExpression ArrayExpression ConditionalExpression Identifier
+",1
+"CallExpression MemberExpression ArrayExpression ConditionalExpression
+",1
+"ArrayExpression ConditionalExpression Literal Program
+",1
+"MemberExpression ArrayExpression ConditionalExpression Literal
+",1
+"BinaryExpression CallExpression BinaryExpression Literal
+",1
+"BinaryExpression CallExpression BinaryExpression Identifier
+",1
+"AssignmentExpression CallExpression MemberExpression BinaryExpression
+",1
+"ExpressionStatement LogicalExpression BinaryExpression MemberExpression
+",1
+"ExpressionStatement LogicalExpression AssignmentExpression BinaryExpression
+",1
+"BlockStatement ReturnStatement CallExpression UnaryExpression
+",1
+"ReturnStatement BinaryExpression BinaryExpression Literal
+",1
+"ReturnStatement BinaryExpression BinaryExpression Identifier
+",1
+"IfStatement ReturnStatement SequenceExpression CallExpression
+",1
+"SequenceExpression CallExpression MemberExpression ThisExpression
+",1
+"BlockStatement IfStatement ReturnStatement SequenceExpression
+",1
+"SequenceExpression CallExpression CallExpression MemberExpression
+",1
+"IfStatement ReturnStatement SequenceExpression ThisExpression
+",1
+"SequenceExpression ThisExpression Program ExpressionStatement
+",1
+"IfStatement LogicalExpression CallExpression Identifier
+",1
+"ExpressionStatement LogicalExpression BinaryExpression UnaryExpression
+",1
+"ExpressionStatement LogicalExpression BinaryExpression Identifier
+",1
+"ExpressionStatement LogicalExpression AssignmentExpression MemberExpression
+",1
+"AssignmentExpression CallExpression BinaryExpression CallExpression
+",1
+"IfStatement LogicalExpression LogicalExpression Identifier
+",1
+"IfStatement ExpressionStatement CallExpression FunctionExpression
+",1
+"BlockStatement ExpressionStatement ConditionalExpression BinaryExpression
+",1
+"IfStatement BlockStatement ExpressionStatement ConditionalExpression
+",1
+"ExpressionStatement ConditionalExpression BinaryExpression Identifier
+",1
+"BlockStatement ExpressionStatement ConditionalExpression CallExpression
+",1
+"ExpressionStatement ConditionalExpression CallExpression Identifier
+",1
+"ExpressionStatement ConditionalExpression CallExpression FunctionExpression
+",1
+"ConditionalExpression CallExpression FunctionExpression BlockStatement
+",1
+"ConditionalExpression CallExpression BinaryExpression Identifier
+",1
+"BlockStatement ExpressionStatement Literal Program
+",1
+"ExpressionStatement CallExpression LogicalExpression Identifier
+",1
+"CallExpression LogicalExpression AssignmentExpression MemberExpression
+",1
+"ExpressionStatement CallExpression LogicalExpression AssignmentExpression
+",1
+"CallExpression LogicalExpression AssignmentExpression FunctionExpression
+",1
+"LogicalExpression AssignmentExpression FunctionExpression BlockStatement
+",1
+"Program ExpressionStatement AssignmentExpression BinaryExpression
+",1
+"AssignmentExpression BinaryExpression CallExpression Literal
+",1
+"Program ExpressionStatement AssignmentExpression LogicalExpression
+",1
+"LogicalExpression CallExpression MemberExpression Literal
+",1
+"FunctionExpression BlockStatement SwitchStatement CallExpression
+",1
+"SwitchStatement CallExpression MemberExpression MemberExpression
+",1
+"SwitchStatement CallExpression MemberExpression Identifier
+",1
+"SwitchCase Literal Program ExpressionStatement
+",1
+"SwitchCase IfStatement MemberExpression Identifier
+",1
+"BreakStatement Program ExpressionStatement AssignmentExpression
+",1
+"IfStatement LogicalExpression LogicalExpression MemberExpression
+",1
+"SwitchCase IfStatement LogicalExpression LogicalExpression
+",1
+"SwitchCase IfStatement LogicalExpression MemberExpression
+",1
+"ReturnStatement CallExpression MemberExpression Literal
+",1
+"FunctionExpression BlockStatement ExpressionStatement Literal
+",1
+"ExpressionStatement Literal Program ExpressionStatement
+",1
+"BlockStatement SwitchStatement CallExpression MemberExpression
+",1
+"BlockStatement SwitchStatement SwitchCase SwitchStatement
+",1
+"SwitchCase SwitchStatement MemberExpression Identifier
+",1
+"SwitchCase SwitchStatement SwitchCase Literal
+",1
+"SwitchCase SwitchStatement SwitchCase ReturnStatement
+",1
+"SwitchStatement SwitchCase ReturnStatement LogicalExpression
+",1
+"ReturnStatement LogicalExpression UnaryExpression MemberExpression
+",1
+"IfStatement BlockStatement DoWhileStatement BlockStatement
+",1
+"DoWhileStatement BlockStatement IfStatement BinaryExpression
+",1
+"BlockStatement IfStatement BlockStatement DoWhileStatement
+",1
+"BlockStatement DoWhileStatement BlockStatement IfStatement
+",1
+"DoWhileStatement BlockStatement IfStatement BlockStatement
+",1
+"DoWhileStatement BlockStatement ExpressionStatement AssignmentExpression
+",1
+"BlockStatement DoWhileStatement BlockStatement ExpressionStatement
+",1
+"IfStatement BlockStatement DoWhileStatement Identifier
+",1
+"DoWhileStatement Identifier Program ExpressionStatement
+",1
+"VariableDeclaration VariableDeclarator MemberExpression Literal
+",1
+"LogicalExpression BinaryExpression CallExpression BinaryExpression
+",1
+"BinaryExpression CallExpression BinaryExpression MemberExpression
+",1
+"IfStatement UnaryExpression MemberExpression ThisExpression
+",1
+"LogicalExpression CallExpression BinaryExpression MemberExpression
+",1
+"IfStatement CallExpression MemberExpression ThisExpression
+",1
+"LogicalExpression BinaryExpression BinaryExpression MemberExpression
+",1
+"LogicalExpression BinaryExpression BinaryExpression Identifier
+",1
+"LogicalExpression LogicalExpression MemberExpression ThisExpression
+",1
+"LogicalExpression BinaryExpression CallExpression Literal
+",1
+"Program IfStatement LogicalExpression MemberExpression
+",1
+"ReturnStatement Identifier Program IfStatement
+",1
+"Program IfStatement IfStatement LogicalExpression
+",1
+"Identifier Program IfStatement IfStatement
+",1
+"Literal Program IfStatement IfStatement
+",1
+"Program IfStatement IfStatement BlockStatement
+",1
+"VariableDeclaration VariableDeclarator AssignmentExpression ObjectExpression
+",1
+"FunctionDeclaration BlockStatement ReturnStatement SequenceExpression
+",1
+"ReturnStatement SequenceExpression CallExpression CallExpression
+",1
+"SequenceExpression CallExpression CallExpression Identifier
+",1
+"SequenceExpression CallExpression FunctionExpression Identifier
+",1
+"ExpressionStatement AssignmentExpression ConditionalExpression ConditionalExpression
+",1
+"AssignmentExpression ConditionalExpression ConditionalExpression BinaryExpression
+",1
+"ConditionalExpression ConditionalExpression UnaryExpression Literal
+",1
+"AssignmentExpression ConditionalExpression ConditionalExpression ConditionalExpression
+",1
+"ConditionalExpression ConditionalExpression BinaryExpression Literal
+",1
+"ConditionalExpression ConditionalExpression Literal Program
+",1
+"ConditionalExpression ConditionalExpression ConditionalExpression ConditionalExpression
+",1
+"ConditionalExpression ConditionalExpression BinaryExpression BinaryExpression
+",1
+"BinaryExpression BinaryExpression UnaryExpression Identifier
+",1
+"ConditionalExpression ConditionalExpression ConditionalExpression BinaryExpression
+",1
+"ConditionalExpression ConditionalExpression UnaryExpression Identifier
+",1
+"ConditionalExpression ConditionalExpression CallExpression MemberExpression
+",1
+"ConditionalExpression ConditionalExpression ConditionalExpression CallExpression
+",1
+"ConditionalExpression ConditionalExpression CallExpression Identifier
+",1
+"ConditionalExpression ConditionalExpression Identifier Program
+",1
+"TryStatement CatchClause BlockStatement Program
+",1
+"BlockStatement IfStatement ContinueStatement Program
+",1
+"ForInStatement BlockStatement IfStatement ReturnStatement
+",1
+"IfStatement ReturnStatement UnaryExpression Literal
+",1
+"FunctionDeclaration BlockStatement ReturnStatement UnaryExpression
+",1
+"ReturnStatement UnaryExpression Literal Program
+",1
+"BlockStatement ReturnStatement LogicalExpression LogicalExpression
+",1
+"LogicalExpression LogicalExpression UnaryExpression MemberExpression
+",1
+"ReturnStatement LogicalExpression LogicalExpression UnaryExpression
+",1
+"BlockStatement ReturnStatement LogicalExpression BinaryExpression
+",1
+"ReturnStatement LogicalExpression BinaryExpression MemberExpression
+",1
+"BlockStatement FunctionDeclaration BlockStatement DoWhileStatement
+",1
+"BlockStatement DoWhileStatement ExpressionStatement AssignmentExpression
+",1
+"FunctionDeclaration BlockStatement DoWhileStatement ExpressionStatement
+",1
+"DoWhileStatement ExpressionStatement AssignmentExpression MemberExpression
+",1
+"FunctionDeclaration BlockStatement DoWhileStatement LogicalExpression
+",1
+"DoWhileStatement LogicalExpression Identifier Program
+",1
+"DoWhileStatement LogicalExpression BinaryExpression MemberExpression
+",1
+"DoWhileStatement LogicalExpression BinaryExpression Literal
+",1
+"ReturnStatement CallExpression FunctionExpression Identifier
+",1
+"ReturnStatement CallExpression FunctionExpression BlockStatement
+",1
+"IfStatement ReturnStatement CallExpression FunctionExpression
+",1
+"VariableDeclarator UnaryExpression UnaryExpression CallExpression
+",1
+"UnaryExpression UnaryExpression CallExpression MemberExpression
+",1
+"IfStatement BlockStatement IfStatement ReturnStatement
+",1
+"ReturnStatement CallExpression UnaryExpression Identifier
+",1
+"BlockStatement ReturnStatement CallExpression FunctionExpression
+",1
+"ReturnStatement BinaryExpression BinaryExpression CallExpression
+",1
+"BlockStatement IfStatement WhileStatement MemberExpression
+",1
+"FunctionDeclaration BlockStatement IfStatement WhileStatement
+",1
+"IfStatement WhileStatement MemberExpression Identifier
+",1
+"BlockStatement IfStatement WhileStatement ExpressionStatement
+",1
+"WhileStatement ExpressionStatement CallExpression MemberExpression
+",1
+"IfStatement WhileStatement ExpressionStatement CallExpression
+",1
+"WhileStatement ExpressionStatement CallExpression CallExpression
+",1
+"LogicalExpression MemberExpression CallExpression MemberExpression
+",1
+"ReturnStatement LogicalExpression MemberExpression CallExpression
+",1
+"LogicalExpression MemberExpression CallExpression Identifier
+",1
+"LogicalExpression MemberExpression Literal Program
+",1
+"ReturnStatement LogicalExpression CallExpression MemberExpression
+",1
+"ReturnStatement LogicalExpression CallExpression CallExpression
+",1
+"LogicalExpression CallExpression CallExpression Identifier
+",1
+"IfStatement BlockStatement ExpressionStatement SequenceExpression
+",1
+"ExpressionStatement SequenceExpression UnaryExpression MemberExpression
+",1
+"ExpressionStatement SequenceExpression AssignmentExpression ObjectExpression
+",1
+"BlockStatement ForInStatement ForStatement SequenceExpression
+",1
+"ForStatement SequenceExpression AssignmentExpression Identifier
+",1
+"IfStatement BlockStatement ForInStatement ForStatement
+",1
+"ForInStatement ForStatement BinaryExpression Identifier
+",1
+"BlockStatement ForInStatement ForStatement BinaryExpression
+",1
+"ForInStatement ForStatement UpdateExpression Identifier
+",1
+"BlockStatement ForInStatement ForStatement ExpressionStatement
+",1
+"ForStatement ExpressionStatement CallExpression MemberExpression
+",1
+"ForInStatement ForStatement ExpressionStatement CallExpression
+",1
+"LogicalExpression AssignmentExpression CallExpression MemberExpression
+",1
+"ExpressionStatement LogicalExpression AssignmentExpression CallExpression
+",1
+"LogicalExpression AssignmentExpression CallExpression ObjectExpression
+",1
+"CallExpression ObjectExpression Program ExpressionStatement
+",1
+"SequenceExpression LogicalExpression CallExpression MemberExpression
+",1
+"FunctionDeclaration BlockStatement ExpressionStatement SequenceExpression
+",1
+"ExpressionStatement SequenceExpression LogicalExpression CallExpression
+",1
+"SequenceExpression LogicalExpression CallExpression Identifier
+",1
+"ExpressionStatement SequenceExpression AssignmentExpression CallExpression
+",1
+"BlockStatement ExpressionStatement SequenceExpression ConditionalExpression
+",1
+"SequenceExpression ConditionalExpression BinaryExpression Identifier
+",1
+"SequenceExpression ConditionalExpression BinaryExpression Literal
+",1
+"SequenceExpression ConditionalExpression SequenceExpression LogicalExpression
+",1
+"SequenceExpression LogicalExpression AssignmentExpression MemberExpression
+",1
+"ExpressionStatement SequenceExpression ConditionalExpression SequenceExpression
+",1
+"ConditionalExpression SequenceExpression LogicalExpression AssignmentExpression
+",1
+"LogicalExpression LogicalExpression MemberExpression MemberExpression
+",1
+"ConditionalExpression SequenceExpression LogicalExpression LogicalExpression
+",1
+"SequenceExpression LogicalExpression LogicalExpression UnaryExpression
+",1
+"SequenceExpression ConditionalExpression ConditionalExpression LogicalExpression
+",1
+"ConditionalExpression LogicalExpression CallExpression MemberExpression
+",1
+"ExpressionStatement SequenceExpression ConditionalExpression ConditionalExpression
+",1
+"ConditionalExpression ConditionalExpression LogicalExpression CallExpression
+",1
+"SequenceExpression ConditionalExpression ConditionalExpression SequenceExpression
+",1
+"ConditionalExpression SequenceExpression AssignmentExpression MemberExpression
+",1
+"ConditionalExpression ConditionalExpression SequenceExpression AssignmentExpression
+",1
+"ConditionalExpression SequenceExpression AssignmentExpression AssignmentExpression
+",1
+"ConditionalExpression SequenceExpression LogicalExpression BinaryExpression
+",1
+"SequenceExpression ConditionalExpression ConditionalExpression ConditionalExpression
+",1
+"ConditionalExpression ConditionalExpression AssignmentExpression MemberExpression
+",1
+"ConditionalExpression ConditionalExpression ConditionalExpression AssignmentExpression
+",1
+"ConditionalExpression AssignmentExpression MemberExpression Identifier
+",1
+"ConditionalExpression ConditionalExpression ConditionalExpression LogicalExpression
+",1
+"ConditionalExpression LogicalExpression LogicalExpression BinaryExpression
+",1
+"ConditionalExpression ConditionalExpression LogicalExpression LogicalExpression
+",1
+"ConditionalExpression LogicalExpression AssignmentExpression MemberExpression
+",1
+"ConditionalExpression ConditionalExpression LogicalExpression AssignmentExpression
+",1
+"ReturnStatement ConditionalExpression CallExpression Literal
+",1
+"BlockStatement ReturnStatement ConditionalExpression ConditionalExpression
+",1
+"ConditionalExpression ConditionalExpression BinaryExpression UnaryExpression
+",1
+"ReturnStatement ConditionalExpression ConditionalExpression CallExpression
+",1
+"ConditionalExpression ConditionalExpression CallExpression Literal
+",1
+"ConditionalExpression ConditionalExpression ArrayExpression Program
+",1
+"FunctionDeclaration BlockStatement WhileStatement UpdateExpression
+",1
+"WhileStatement UpdateExpression Identifier Program
+",1
+"ReturnStatement SequenceExpression AssignmentExpression LogicalExpression
+",1
+"ReturnStatement SequenceExpression LogicalExpression BinaryExpression
+",1
+"SequenceExpression LogicalExpression BinaryExpression CallExpression
+",1
+"ForStatement BlockStatement IfStatement UnaryExpression
+",1
+"ForStatement BlockStatement IfStatement ContinueStatement
+",1
+"IfStatement ContinueStatement Program ExpressionStatement
+",1
+"ForStatement BlockStatement ExpressionStatement SequenceExpression
+",1
+"SequenceExpression AssignmentExpression CallExpression Literal
+",1
+"SequenceExpression ConditionalExpression Identifier Program
+",1
+"LogicalExpression AssignmentExpression Literal Program
+",1
+"SequenceExpression LogicalExpression LogicalExpression CallExpression
+",1
+"LogicalExpression LogicalExpression CallExpression Identifier
+",1
+"SequenceExpression LogicalExpression AssignmentExpression CallExpression
+",1
+"LogicalExpression AssignmentExpression CallExpression Literal
+",1
+"LogicalExpression AssignmentExpression CallExpression CallExpression
+",1
+"SequenceExpression ConditionalExpression SequenceExpression AssignmentExpression
+",1
+"ConditionalExpression SequenceExpression AssignmentExpression CallExpression
+",1
+"ConditionalExpression SequenceExpression LogicalExpression CallExpression
+",1
+"LogicalExpression CallExpression Literal Program
+",1
+"ConditionalExpression LogicalExpression Literal Program
+",1
+"IfStatement ExpressionStatement AssignmentExpression ConditionalExpression
+",1
+"ReturnStatement ConditionalExpression BinaryExpression CallExpression
+",1
+"ConditionalExpression BinaryExpression CallExpression MemberExpression
+",1
+"BinaryExpression CallExpression BinaryExpression LogicalExpression
+",1
+"BinaryExpression LogicalExpression Identifier Program
+",1
+"ReturnStatement ConditionalExpression BinaryExpression LogicalExpression
+",1
+"ConditionalExpression BinaryExpression LogicalExpression MemberExpression
+",1
+"VariableDeclarator ConditionalExpression BinaryExpression ConditionalExpression
+",1
+"BinaryExpression ConditionalExpression Identifier Program
+",1
+"ConditionalExpression BinaryExpression ConditionalExpression Literal
+",1
+"BinaryExpression ConditionalExpression Literal Program
+",1
+"VariableDeclarator ConditionalExpression ConditionalExpression BinaryExpression
+",1
+"VariableDeclaration VariableDeclarator ConditionalExpression ConditionalExpression
+",1
+"VariableDeclarator ConditionalExpression ConditionalExpression Literal
+",1
+"BlockStatement ForStatement ExpressionStatement SequenceExpression
+",1
+"ExpressionStatement SequenceExpression LogicalExpression BinaryExpression
+",1
+"FunctionDeclaration BlockStatement ForStatement ExpressionStatement
+",1
+"ForStatement ExpressionStatement SequenceExpression LogicalExpression
+",1
+"SequenceExpression LogicalExpression BinaryExpression Literal
+",1
+"ExpressionStatement SequenceExpression LogicalExpression AssignmentExpression
+",1
+"LogicalExpression AssignmentExpression CallExpression BinaryExpression
+",1
+"LogicalExpression AssignmentExpression CallExpression UnaryExpression
+",1
+"ForStatement ExpressionStatement SequenceExpression ConditionalExpression
+",1
+"SequenceExpression LogicalExpression BinaryExpression Identifier
+",1
+"LogicalExpression AssignmentExpression LogicalExpression CallExpression
+",1
+"SequenceExpression LogicalExpression AssignmentExpression LogicalExpression
+",1
+"AssignmentExpression LogicalExpression CallExpression CallExpression
+",1
+"LogicalExpression CallExpression CallExpression BinaryExpression
+",1
+"LogicalExpression AssignmentExpression LogicalExpression Literal
+",1
+"AssignmentExpression LogicalExpression CallExpression Identifier
+",1
+"SequenceExpression AssignmentExpression LogicalExpression CallExpression
+",1
+"ConditionalExpression SequenceExpression AssignmentExpression LogicalExpression
+",1
+"SequenceExpression AssignmentExpression LogicalExpression Literal
+",1
+"VariableDeclarator LogicalExpression MemberExpression MemberExpression
+",1
+"VariableDeclaration VariableDeclarator LogicalExpression BinaryExpression
+",1
+"VariableDeclarator LogicalExpression BinaryExpression CallExpression
+",1
+"IfStatement ReturnStatement Identifier Program
+",1
+"SequenceExpression AssignmentExpression LogicalExpression Identifier
+",1
+"SequenceExpression AssignmentExpression LogicalExpression LogicalExpression
+",1
+"ExpressionStatement SequenceExpression AssignmentExpression LogicalExpression
+",1
+"AssignmentExpression LogicalExpression LogicalExpression MemberExpression
+",1
+"CallExpression LogicalExpression ConditionalExpression Identifier
+",1
+"CallExpression LogicalExpression ConditionalExpression Literal
+",1
+"BlockStatement IfStatement ReturnStatement MemberExpression
+",1
+"IfStatement ReturnStatement MemberExpression Identifier
+",1
+"CallExpression MemberExpression CallExpression BinaryExpression
+",1
+"MemberExpression CallExpression BinaryExpression BinaryExpression
+",1
+"AssignmentExpression CallExpression LogicalExpression Identifier
+",1
+"AssignmentExpression CallExpression LogicalExpression CallExpression
+",1
+"LogicalExpression CallExpression CallExpression MemberExpression
+",1
+"CallExpression LogicalExpression CallExpression CallExpression
+",1
+"LogicalExpression CallExpression CallExpression Literal
+",1
+"LogicalExpression CallExpression ObjectExpression Property
+",1
+"CallExpression LogicalExpression CallExpression ObjectExpression
+",1
+"IfStatement ExpressionStatement SequenceExpression AssignmentExpression
+",1
+"SequenceExpression AssignmentExpression MemberExpression LogicalExpression
+",1
+"MemberExpression LogicalExpression MemberExpression Identifier
+",1
+"BlockStatement IfStatement ExpressionStatement SequenceExpression
+",1
+"AssignmentExpression MemberExpression LogicalExpression MemberExpression
+",1
+"IfStatement ExpressionStatement SequenceExpression CallExpression
+",1
+"ExpressionStatement SequenceExpression CallExpression Literal
+",1
+"SequenceExpression AssignmentExpression CallExpression CallExpression
+",1
+"SequenceExpression CallExpression MemberExpression MemberExpression
+",1
+"FunctionExpression BlockStatement ExpressionStatement ConditionalExpression
+",1
+"ExpressionStatement ConditionalExpression LogicalExpression Identifier
+",1
+"ExpressionStatement ConditionalExpression LogicalExpression CallExpression
+",1
+"ConditionalExpression CallExpression BinaryExpression BinaryExpression
+",1
+"ExpressionStatement ConditionalExpression CallExpression BinaryExpression
+",1
+"BinaryExpression BinaryExpression ConditionalExpression BinaryExpression
+",1
+"CallExpression BinaryExpression BinaryExpression ConditionalExpression
+",1
+"BinaryExpression ConditionalExpression BinaryExpression Literal
+",1
+"BinaryExpression BinaryExpression ConditionalExpression Literal
+",1
+"IfStatement IfStatement LogicalExpression UnaryExpression
+",1
+"BlockStatement IfStatement IfStatement ForInStatement
+",1
+"IfStatement ForInStatement Identifier Program
+",1
+"IfStatement IfStatement ForInStatement Identifier
+",1
+"IfStatement ForInStatement ExpressionStatement CallExpression
+",1
+"IfStatement IfStatement ForInStatement ExpressionStatement
+",1
+"ForInStatement ExpressionStatement CallExpression BinaryExpression
+",1
+"ForInStatement ExpressionStatement CallExpression Identifier
+",1
+"BlockStatement IfStatement IfStatement ExpressionStatement
+",1
+"BlockStatement ExpressionStatement LogicalExpression SequenceExpression
+",1
+"LogicalExpression SequenceExpression AssignmentExpression Identifier
+",1
+"ExpressionStatement LogicalExpression SequenceExpression AssignmentExpression
+",1
+"SequenceExpression AssignmentExpression Literal Program
+",1
+"ReturnStatement FunctionExpression BlockStatement IfStatement
+",1
+"FunctionExpression BlockStatement IfStatement ForStatement
+",1
+"IfStatement ForStatement BinaryExpression Identifier
+",1
+"IfStatement ForStatement UpdateExpression Identifier
+",1
+"IfStatement ForStatement ExpressionStatement SequenceExpression
+",1
+"BlockStatement IfStatement ForStatement ExpressionStatement
+",1
+"ForStatement ExpressionStatement SequenceExpression AssignmentExpression
+",1
+"SequenceExpression AssignmentExpression AssignmentExpression MemberExpression
+",1
+"SequenceExpression AssignmentExpression AssignmentExpression LogicalExpression
+",1
+"ExpressionStatement SequenceExpression AssignmentExpression AssignmentExpression
+",1
+"ForStatement ExpressionStatement SequenceExpression CallExpression
+",1
+"CallExpression MemberExpression ConditionalExpression Identifier
+",1
+"CallExpression MemberExpression ConditionalExpression Literal
+",1
+"ExpressionStatement SequenceExpression CallExpression Identifier
+",1
+"SequenceExpression AssignmentExpression LogicalExpression MemberExpression
+",1
+"SequenceExpression AssignmentExpression LogicalExpression ObjectExpression
+",1
+"LogicalExpression ObjectExpression Program ExpressionStatement
+",1
+"SequenceExpression AssignmentExpression UnaryExpression Literal
+",1
+"BlockStatement ForStatement LogicalExpression BinaryExpression
+",1
+"FunctionDeclaration BlockStatement ForStatement LogicalExpression
+",1
+"ForStatement LogicalExpression BinaryExpression Identifier
+",1
+"BlockStatement ForStatement LogicalExpression LogicalExpression
+",1
+"ForStatement LogicalExpression LogicalExpression UnaryExpression
+",1
+"SequenceExpression LogicalExpression ConditionalExpression LogicalExpression
+",1
+"ConditionalExpression LogicalExpression UnaryExpression Identifier
+",1
+"ExpressionStatement SequenceExpression LogicalExpression ConditionalExpression
+",1
+"LogicalExpression ConditionalExpression LogicalExpression MemberExpression
+",1
+"LogicalExpression ConditionalExpression AssignmentExpression Identifier
+",1
+"LogicalExpression ConditionalExpression SequenceExpression CallExpression
+",1
+"SequenceExpression LogicalExpression ConditionalExpression SequenceExpression
+",1
+"ConditionalExpression SequenceExpression CallExpression MemberExpression
+",1
+"ConditionalExpression SequenceExpression AssignmentExpression Identifier
+",1
+"LogicalExpression ConditionalExpression SequenceExpression AssignmentExpression
+",1
+"LogicalExpression LogicalExpression LogicalExpression UnaryExpression
+",1
+"LogicalExpression AssignmentExpression CallExpression Identifier
+",1
+"VariableDeclaration VariableDeclarator LogicalExpression ObjectExpression
+",1
+"BlockStatement ForInStatement ExpressionStatement LogicalExpression
+",1
+"FunctionDeclaration BlockStatement ForInStatement ExpressionStatement
+",1
+"ForInStatement ExpressionStatement LogicalExpression BinaryExpression
+",1
+"AssignmentExpression MemberExpression ConditionalExpression MemberExpression
+",1
+"ForInStatement ExpressionStatement LogicalExpression AssignmentExpression
+",1
+"LogicalExpression AssignmentExpression MemberExpression ConditionalExpression
+",1
+"MemberExpression ConditionalExpression MemberExpression Identifier
+",1
+"AssignmentExpression MemberExpression ConditionalExpression Identifier
+",1
+"AssignmentExpression MemberExpression ConditionalExpression LogicalExpression
+",1
+"MemberExpression ConditionalExpression LogicalExpression AssignmentExpression
+",1
+"LogicalExpression AssignmentExpression ObjectExpression Program
+",1
+"LogicalExpression CallExpression UnaryExpression Literal
+",1
+"LogicalExpression AssignmentExpression MemberExpression MemberExpression
+",1
+"WhileStatement BinaryExpression MemberExpression Identifier
+",1
+"BlockStatement WhileStatement BinaryExpression MemberExpression
+",1
+"WhileStatement BinaryExpression Literal Program
+",1
+"WhileStatement ExpressionStatement SequenceExpression CallExpression
+",1
+"BlockStatement WhileStatement ExpressionStatement SequenceExpression
+",1
+"WhileStatement ExpressionStatement SequenceExpression LogicalExpression
+",1
+"LogicalExpression AssignmentExpression LogicalExpression MemberExpression
+",1
+"BlockStatement IfStatement ForInStatement Identifier
+",1
+"BlockStatement IfStatement ForInStatement IfStatement
+",1
+"ForInStatement IfStatement LogicalExpression MemberExpression
+",1
+"FunctionDeclaration BlockStatement IfStatement ForInStatement
+",1
+"IfStatement ForInStatement IfStatement LogicalExpression
+",1
+"ForInStatement IfStatement LogicalExpression CallExpression
+",1
+"LogicalExpression CallExpression MemberExpression MemberExpression
+",1
+"IfStatement LogicalExpression CallExpression MemberExpression
+",1
+"IfStatement ForInStatement IfStatement BlockStatement
+",1
+"ForInStatement IfStatement BlockStatement ExpressionStatement
+",1
+"LogicalExpression UnaryExpression MemberExpression Literal
+",1
+"LogicalExpression MemberExpression BinaryExpression BinaryExpression
+",1
+"IfStatement LogicalExpression MemberExpression BinaryExpression
+",1
+"MemberExpression BinaryExpression BinaryExpression Literal
+",1
+"LogicalExpression MemberExpression BinaryExpression MemberExpression
+",1
+"MemberExpression BinaryExpression MemberExpression Literal
+",1
+"ForInStatement BlockStatement ExpressionStatement LogicalExpression
+",1
+"IfStatement ReturnStatement SequenceExpression LogicalExpression
+",1
+"LogicalExpression BinaryExpression MemberExpression Literal
+",1
+"ReturnStatement SequenceExpression LogicalExpression CallExpression
+",1
+"IfStatement ReturnStatement SequenceExpression MemberExpression
+",1
+"SequenceExpression MemberExpression Identifier Program
+",1
+"IfStatement ForInStatement MemberExpression Identifier
+",1
+"BlockStatement IfStatement ForInStatement MemberExpression
+",1
+"IfStatement ForInStatement ExpressionStatement AssignmentExpression
+",1
+"BlockStatement IfStatement ForInStatement ExpressionStatement
+",1
+"AssignmentExpression MemberExpression UpdateExpression Identifier
+",1
+"BlockStatement ForStatement IfStatement BinaryExpression
+",1
+"FunctionDeclaration BlockStatement ForStatement IfStatement
+",1
+"ForStatement IfStatement BinaryExpression Literal
+",1
+"BlockStatement ForStatement IfStatement BlockStatement
+",1
+"ForStatement IfStatement BlockStatement IfStatement
+",1
+"AssignmentExpression LogicalExpression MemberExpression BinaryExpression
+",1
+"LogicalExpression MemberExpression BinaryExpression Identifier
+",1
+"IfStatement BlockStatement IfStatement ForInStatement
+",1
+"IfStatement ForInStatement BlockStatement ExpressionStatement
+",1
+"BlockStatement IfStatement ForInStatement BlockStatement
+",1
+"IfStatement ForInStatement BlockStatement IfStatement
+",1
+"LogicalExpression MemberExpression BinaryExpression Literal
+",1
+"MemberExpression BinaryExpression MemberExpression Identifier
+",1
+"BlockStatement ExpressionStatement ConditionalExpression AssignmentExpression
+",1
+"ConditionalExpression AssignmentExpression Identifier Program
+",1
+"ExpressionStatement ConditionalExpression AssignmentExpression MemberExpression
+",1
+"ExpressionStatement ConditionalExpression LogicalExpression BinaryExpression
+",1
+"BlockStatement ExpressionStatement ConditionalExpression LogicalExpression
+",1
+"ConditionalExpression LogicalExpression SequenceExpression AssignmentExpression
+",1
+"ExpressionStatement ConditionalExpression LogicalExpression SequenceExpression
+",1
+"LogicalExpression SequenceExpression AssignmentExpression MemberExpression
+",1
+"LogicalExpression SequenceExpression CallExpression MemberExpression
+",1
+"LogicalExpression SequenceExpression CallExpression UpdateExpression
+",1
+"CallExpression UpdateExpression Identifier Program
+",1
+"LogicalExpression SequenceExpression CallExpression Literal
+",1
+"ConditionalExpression LogicalExpression SequenceExpression CallExpression
+",1
+"IfStatement LogicalExpression MemberExpression Literal
+",1
+"IfStatement IfStatement ExpressionStatement AssignmentExpression
+",1
+"BlockStatement IfStatement IfStatement TryStatement
+",1
+"IfStatement TryStatement BlockStatement ExpressionStatement
+",1
+"IfStatement IfStatement TryStatement BlockStatement
+",1
+"IfStatement IfStatement TryStatement CatchClause
+",1
+"IfStatement TryStatement CatchClause BlockStatement
+",1
+"CatchClause BlockStatement ReturnStatement ObjectExpression
+",1
+"ObjectExpression Property ConditionalExpression Identifier
+",1
+"ReturnStatement ObjectExpression Property ConditionalExpression
+",1
+"Property ConditionalExpression BinaryExpression BinaryExpression
+",1
+"ForStatement IfStatement BlockStatement ExpressionStatement
+",1
+"TryStatement BlockStatement ReturnStatement NewExpression
+",1
+"ReturnStatement NewExpression Literal Program
+",1
+"ReturnStatement SequenceExpression CallExpression FunctionExpression
+",1
+"ReturnStatement SequenceExpression CallExpression Literal
+",1
+"VariableDeclarator CallExpression MemberExpression LogicalExpression
+",1
+"MemberExpression LogicalExpression ArrayExpression Program
+",1
+"FunctionExpression BlockStatement ForStatement IfStatement
+",1
+"ForStatement IfStatement CallExpression MemberExpression
+",1
+"BlockStatement ForStatement IfStatement CallExpression
+",1
+"ForStatement IfStatement CallExpression Identifier
+",1
+"BlockStatement ForStatement IfStatement ReturnStatement
+",1
+"VariableDeclarator LogicalExpression BinaryExpression Identifier
+",1
+"VariableDeclarator LogicalExpression BinaryExpression MemberExpression
+",1
+"BlockStatement ForStatement ExpressionStatement CallExpression
+",1
+"FunctionExpression BlockStatement ForStatement ExpressionStatement
+",1
+"ForStatement ExpressionStatement CallExpression Identifier
+",1
+"ReturnStatement SequenceExpression CallExpression ArrayExpression
+",1
+"ReturnStatement SequenceExpression ConditionalExpression LogicalExpression
+",1
+"BlockStatement ReturnStatement SequenceExpression ConditionalExpression
+",1
+"SequenceExpression ConditionalExpression LogicalExpression BinaryExpression
+",1
+"ReturnStatement SequenceExpression ConditionalExpression Identifier
+",1
+"SequenceExpression ConditionalExpression SequenceExpression CallExpression
+",1
+"ReturnStatement SequenceExpression ConditionalExpression SequenceExpression
+",1
+"ConditionalExpression SequenceExpression CallExpression ArrayExpression
+",1
+"ConditionalExpression SequenceExpression UnaryExpression Literal
+",1
+"VariableDeclarator CallExpression ObjectExpression Property
+",1
+"CallExpression ObjectExpression Property CallExpression
+",1
+"Property CallExpression ObjectExpression Program
+",1
+"ObjectExpression Property CallExpression UnaryExpression
+",1
+"Property CallExpression ObjectExpression Property
+",1
+"ObjectExpression Property LogicalExpression Identifier
+",1
+"ObjectExpression Property LogicalExpression CallExpression
+",1
+"CallExpression ObjectExpression Property ArrayExpression
+",1
+"Property ArrayExpression Program ExpressionStatement
+",1
+"CallExpression ObjectExpression Property FunctionExpression
+",1
+"VariableDeclaration VariableDeclarator CallExpression LogicalExpression
+",1
+"CallExpression LogicalExpression MemberExpression MemberExpression
+",1
+"VariableDeclarator CallExpression LogicalExpression MemberExpression
+",1
+"ReturnStatement SequenceExpression Identifier Program
+",1
+"VariableDeclarator ConditionalExpression MemberExpression MemberExpression
+",1
+"ForStatement ExpressionStatement CallExpression Literal
+",1
+"ReturnStatement SequenceExpression ConditionalExpression CallExpression
+",1
+"SequenceExpression ConditionalExpression CallExpression ArrayExpression
+",1
+"SequenceExpression ConditionalExpression CallExpression MemberExpression
+",1
+"SequenceExpression ConditionalExpression CallExpression Identifier
+",1
+"ConditionalExpression CallExpression ArrayExpression Identifier
+",1
+"ForStatement BlockStatement IfStatement Identifier
+",1
+"CallExpression CallExpression ObjectExpression Property
+",1
+"ObjectExpression Property MemberExpression MemberExpression
+",1
+"SequenceExpression CallExpression CallExpression ObjectExpression
+",1
+"SequenceExpression CallExpression MemberExpression CallExpression
+",1
+"ForInStatement BlockStatement ExpressionStatement SequenceExpression
+",1
+"SequenceExpression LogicalExpression SequenceExpression AssignmentExpression
+",1
+"ExpressionStatement SequenceExpression LogicalExpression SequenceExpression
+",1
+"LogicalExpression SequenceExpression AssignmentExpression AssignmentExpression
+",1
+"AssignmentExpression AssignmentExpression MemberExpression Literal
+",1
+"LogicalExpression SequenceExpression UnaryExpression MemberExpression
+",1
+"IfStatement BlockStatement ForInStatement ExpressionStatement
+",1
+"ForInStatement ExpressionStatement LogicalExpression SequenceExpression
+",1
+"ExpressionStatement SequenceExpression LogicalExpression MemberExpression
+",1
+"LogicalExpression SequenceExpression AssignmentExpression CallExpression
+",1
+"SequenceExpression LogicalExpression SequenceExpression LogicalExpression
+",1
+"SequenceExpression LogicalExpression BinaryExpression MemberExpression
+",1
+"LogicalExpression SequenceExpression LogicalExpression BinaryExpression
+",1
+"LogicalExpression SequenceExpression LogicalExpression SequenceExpression
+",1
+"SequenceExpression LogicalExpression SequenceExpression UpdateExpression
+",1
+"SequenceExpression UpdateExpression MemberExpression Identifier
+",1
+"SequenceExpression LogicalExpression SequenceExpression CallExpression
+",1
+"ExpressionStatement SequenceExpression UpdateExpression MemberExpression
+",1
+"LogicalExpression SequenceExpression CallExpression FunctionExpression
+",1
+"BlockStatement ExpressionStatement SequenceExpression UpdateExpression
+",1
+"SequenceExpression LogicalExpression MemberExpression CallExpression
+",1
+"LogicalExpression MemberExpression CallExpression Literal
+",1
+"ExpressionStatement SequenceExpression LogicalExpression LogicalExpression
+",1
+"SequenceExpression AssignmentExpression ArrayExpression MemberExpression
+",1
+"LogicalExpression SequenceExpression AssignmentExpression ArrayExpression
+",1
+"AssignmentExpression ArrayExpression MemberExpression Identifier
+",1
+"LogicalExpression SequenceExpression LogicalExpression LogicalExpression
+",1
+"LogicalExpression LogicalExpression BinaryExpression CallExpression
+",1
+"ConditionalExpression LogicalExpression UnaryExpression MemberExpression
+",1
+"LogicalExpression SequenceExpression LogicalExpression ConditionalExpression
+",1
+"LogicalExpression ConditionalExpression LogicalExpression BinaryExpression
+",1
+"ConditionalExpression LogicalExpression BinaryExpression CallExpression
+",1
+"SequenceExpression LogicalExpression ConditionalExpression AssignmentExpression
+",1
+"ConditionalExpression AssignmentExpression Literal Program
+",1
+"LogicalExpression ConditionalExpression AssignmentExpression MemberExpression
+",1
+"LogicalExpression ConditionalExpression AssignmentExpression Literal
+",1
+"LogicalExpression SequenceExpression LogicalExpression MemberExpression
+",1
+"SequenceExpression LogicalExpression MemberExpression MemberExpression
+",1
+"LogicalExpression SequenceExpression LogicalExpression CallExpression
+",1
+"LogicalExpression CallExpression FunctionExpression BlockStatement
+",1
+"SequenceExpression LogicalExpression CallExpression FunctionExpression
+",1
+"SequenceExpression AssignmentExpression LogicalExpression BinaryExpression
+",1
+"AssignmentExpression LogicalExpression BinaryExpression Literal
+",1
+"BlockStatement IfStatement BinaryExpression ConditionalExpression
+",1
+"IfStatement BinaryExpression ConditionalExpression Literal
+",1
+"IfStatement BlockStatement IfStatement ContinueStatement
+",1
+"AssignmentExpression LogicalExpression CallExpression Literal
+",1
+"LogicalExpression CallExpression ObjectExpression Program
+",1
+"ExpressionStatement SequenceExpression LogicalExpression Identifier
+",1
+"SequenceExpression LogicalExpression AssignmentExpression UnaryExpression
+",1
+"AssignmentExpression UnaryExpression Identifier Program
+",1
+"ExpressionStatement SequenceExpression ConditionalExpression Identifier
+",1
+"ExpressionStatement SequenceExpression ConditionalExpression CallExpression
+",1
+"BlockStatement ForInStatement ExpressionStatement CallExpression
+",1
+"ForInStatement ExpressionStatement CallExpression MemberExpression
+",1
+"IfStatement BlockStatement ForStatement ExpressionStatement
+",1
+"AssignmentExpression CallExpression ConditionalExpression Identifier
+",1
+"AssignmentExpression CallExpression ConditionalExpression MemberExpression
+",1
+"SequenceExpression AssignmentExpression CallExpression ConditionalExpression
+",1
+"AssignmentExpression CallExpression ConditionalExpression Literal
+",1
+"LogicalExpression SequenceExpression LogicalExpression Identifier
+",1
+"LogicalExpression SequenceExpression AssignmentExpression ConditionalExpression
+",1
+"AssignmentExpression ConditionalExpression LogicalExpression BinaryExpression
+",1
+"SequenceExpression AssignmentExpression ConditionalExpression LogicalExpression
+",1
+"SequenceExpression AssignmentExpression ConditionalExpression Literal
+",1
+"NewExpression MemberExpression MemberExpression Identifier
+",1
+"FunctionDeclaration BlockStatement ReturnStatement NewExpression
+",1
+"ForStatement BinaryExpression Literal Program
+",1
+"AssignmentExpression MemberExpression BinaryExpression Literal
+",1
+"AssignmentExpression AssignmentExpression MemberExpression BinaryExpression
+",1
+"SequenceExpression LogicalExpression AssignmentExpression AssignmentExpression
+",1
+"ReturnStatement ConditionalExpression ConditionalExpression BinaryExpression
+",1
+"ConditionalExpression ConditionalExpression LogicalExpression MemberExpression
+",1
+"ReturnStatement ConditionalExpression ConditionalExpression LogicalExpression
+",1
+"ReturnStatement CallExpression MemberExpression BinaryExpression
+",1
+"BlockStatement ExpressionStatement ConditionalExpression MemberExpression
+",1
+"ExpressionStatement ConditionalExpression MemberExpression Identifier
+",1
+"BlockStatement ExpressionStatement ConditionalExpression SequenceExpression
+",1
+"ExpressionStatement ConditionalExpression SequenceExpression CallExpression
+",1
+"ConditionalExpression SequenceExpression CallExpression Literal
+",1
+"ConditionalExpression SequenceExpression CallExpression Identifier
+",1
+"ConditionalExpression SequenceExpression CallExpression UnaryExpression
+",1
+"AssignmentExpression AssignmentExpression ObjectExpression Property
+",1
+"SequenceExpression AssignmentExpression AssignmentExpression ObjectExpression
+",1
+"BlockStatement IfStatement ReturnStatement ThisExpression
+",1
+"IfStatement ReturnStatement SequenceExpression AssignmentExpression
+",1
+"ReturnStatement SequenceExpression AssignmentExpression AssignmentExpression
+",1
+"SequenceExpression AssignmentExpression MemberExpression ThisExpression
+",1
+"ExpressionStatement ConditionalExpression LogicalExpression LogicalExpression
+",1
+"ExpressionStatement ConditionalExpression AssignmentExpression ArrayExpression
+",1
+"AssignmentExpression ArrayExpression Identifier Program
+",1
+"ExpressionStatement ConditionalExpression AssignmentExpression Identifier
+",1
+"ConditionalExpression AssignmentExpression CallExpression MemberExpression
+",1
+"ExpressionStatement ConditionalExpression AssignmentExpression CallExpression
+",1
+"ConditionalExpression AssignmentExpression CallExpression Identifier
+",1
+"LogicalExpression LogicalExpression MemberExpression Literal
+",1
+"BlockStatement IfStatement MemberExpression Literal
+",1
+"ReturnStatement SequenceExpression AssignmentExpression ConditionalExpression
+",1
+"AssignmentExpression ConditionalExpression MemberExpression Literal
+",1
+"SequenceExpression AssignmentExpression ConditionalExpression Identifier
+",1
+"SequenceExpression AssignmentExpression CallExpression UnaryExpression
+",1
+"SequenceExpression LogicalExpression CallExpression UnaryExpression
+",1
+"SequenceExpression CallExpression ThisExpression Program
+",1
+"IfStatement BlockStatement ReturnStatement SequenceExpression
+",1
+"BlockStatement ReturnStatement SequenceExpression ThisExpression
+",1
+"BlockStatement ReturnStatement ConditionalExpression LogicalExpression
+",1
+"ConditionalExpression CallExpression MemberExpression LogicalExpression
+",1
+"MemberExpression LogicalExpression Identifier Program
+",1
+"IfStatement BlockStatement ReturnStatement ConditionalExpression
+",1
+"CallExpression MemberExpression LogicalExpression Identifier
+",1
+"ReturnStatement ConditionalExpression SequenceExpression LogicalExpression
+",1
+"BlockStatement ReturnStatement ConditionalExpression SequenceExpression
+",1
+"ConditionalExpression SequenceExpression LogicalExpression SequenceExpression
+",1
+"ReturnStatement ConditionalExpression SequenceExpression CallExpression
+",1
+"ConditionalExpression SequenceExpression CallExpression ThisExpression
+",1
+"ReturnStatement ConditionalExpression ConditionalExpression MemberExpression
+",1
+"ConditionalExpression MemberExpression BinaryExpression MemberExpression
+",1
+"ConditionalExpression MemberExpression BinaryExpression Identifier
+",1
+"ConditionalExpression ConditionalExpression MemberExpression ThisExpression
+",1
+"SequenceExpression AssignmentExpression ThisExpression Program
+",1
+"ReturnStatement SequenceExpression ConditionalExpression BinaryExpression
+",1
+"ReturnStatement SequenceExpression ConditionalExpression AssignmentExpression
+",1
+"SequenceExpression ConditionalExpression AssignmentExpression MemberExpression
+",1
+"ConditionalExpression AssignmentExpression BinaryExpression BinaryExpression
+",1
+"SequenceExpression ConditionalExpression AssignmentExpression BinaryExpression
+",1
+"BinaryExpression BinaryExpression ConditionalExpression MemberExpression
+",1
+"AssignmentExpression BinaryExpression BinaryExpression ConditionalExpression
+",1
+"ConditionalExpression AssignmentExpression BinaryExpression Identifier
+",1
+"SequenceExpression ConditionalExpression LogicalExpression Identifier
+",1
+"SequenceExpression ConditionalExpression LogicalExpression AssignmentExpression
+",1
+"ConditionalExpression LogicalExpression AssignmentExpression BinaryExpression
+",1
+"SequenceExpression AssignmentExpression UnaryExpression Identifier
+",1
+"SequenceExpression ConditionalExpression BinaryExpression UnaryExpression
+",1
+"ConditionalExpression CallExpression MemberExpression ThisExpression
+",1
+"SequenceExpression ConditionalExpression CallExpression BinaryExpression
+",1
+"ReturnStatement CallExpression CallExpression ThisExpression
+",1
+"CallExpression CallExpression FunctionExpression Identifier
+",1
+"CallExpression CallExpression FunctionExpression BlockStatement
+",1
+"ReturnStatement CallExpression CallExpression FunctionExpression
+",1
+"ReturnStatement LogicalExpression MemberExpression ThisExpression
+",1
+"ReturnStatement LogicalExpression CallExpression Literal
+",1
+"Property MemberExpression ArrayExpression Program
+",1
+"AssignmentExpression AssignmentExpression MemberExpression MemberExpression
+",1
+"SequenceExpression AssignmentExpression AssignmentExpression FunctionExpression
+",1
+"VariableDeclarator LogicalExpression MemberExpression Literal
+",1
+"VariableDeclarator LogicalExpression ObjectExpression Program
+",1
+"SequenceExpression LogicalExpression BinaryExpression UnaryExpression
+",1
+"LogicalExpression SequenceExpression AssignmentExpression LogicalExpression
+",1
+"AssignmentExpression LogicalExpression MemberExpression Literal
+",1
+"LogicalExpression SequenceExpression AssignmentExpression Literal
+",1
+"LogicalExpression SequenceExpression UpdateExpression Identifier
+",1
+"IfStatement BinaryExpression AssignmentExpression Identifier
+",1
+"IfStatement BinaryExpression AssignmentExpression MemberExpression
+",1
+"ForStatement IfStatement BinaryExpression AssignmentExpression
+",1
+"BinaryExpression AssignmentExpression MemberExpression Identifier
+",1
+"ForStatement IfStatement ForInStatement Identifier
+",1
+"BlockStatement ForStatement IfStatement ForInStatement
+",1
+"ForStatement IfStatement ForInStatement BlockStatement
+",1
+"ConditionalExpression LogicalExpression LogicalExpression Identifier
+",1
+"ConditionalExpression LogicalExpression LogicalExpression CallExpression
+",1
+"ForInStatement BlockStatement ExpressionStatement ConditionalExpression
+",1
+"LogicalExpression LogicalExpression AssignmentExpression Identifier
+",1
+"ConditionalExpression LogicalExpression LogicalExpression AssignmentExpression
+",1
+"LogicalExpression LogicalExpression AssignmentExpression CallExpression
+",1
+"ConditionalExpression SequenceExpression ConditionalExpression Identifier
+",1
+"ConditionalExpression SequenceExpression ConditionalExpression SequenceExpression
+",1
+"ConditionalExpression SequenceExpression AssignmentExpression UnaryExpression
+",1
+"ExpressionStatement ConditionalExpression SequenceExpression ConditionalExpression
+",1
+"ConditionalExpression LogicalExpression CallExpression Identifier
+",1
+"ConditionalExpression SequenceExpression AssignmentExpression ConditionalExpression
+",1
+"SequenceExpression AssignmentExpression ConditionalExpression ArrayExpression
+",1
+"ConditionalExpression ArrayExpression Program ExpressionStatement
+",1
+"ConditionalExpression SequenceExpression ConditionalExpression AssignmentExpression
+",1
+"SequenceExpression ConditionalExpression AssignmentExpression ConditionalExpression
+",1
+"ConditionalExpression AssignmentExpression ConditionalExpression LogicalExpression
+",1
+"AssignmentExpression ConditionalExpression LogicalExpression CallExpression
+",1
+"ConditionalExpression AssignmentExpression ConditionalExpression Identifier
+",1
+"ConditionalExpression AssignmentExpression ConditionalExpression ObjectExpression
+",1
+"ExpressionStatement ConditionalExpression SequenceExpression AssignmentExpression
+",1
+"ExpressionStatement ConditionalExpression LogicalExpression AssignmentExpression
+",1
+"ExpressionStatement SequenceExpression CallExpression ObjectExpression
+",1
+"SequenceExpression LogicalExpression LogicalExpression Identifier
+",1
+"CallExpression ObjectExpression Property UnaryExpression
+",1
+"Property UnaryExpression Literal Program
+",1
+"ExpressionStatement ConditionalExpression Identifier Program
+",1
+"BlockStatement ExpressionStatement ConditionalExpression UpdateExpression
+",1
+"ConditionalExpression UpdateExpression MemberExpression Identifier
+",1
+"ExpressionStatement ConditionalExpression UpdateExpression MemberExpression
+",1
+"ExpressionStatement ConditionalExpression CallExpression MemberExpression
+",1
+"ConditionalExpression CallExpression UnaryExpression Literal
+",1
+"BlockStatement IfStatement ConditionalExpression BinaryExpression
+",1
+"FunctionExpression BlockStatement IfStatement ConditionalExpression
+",1
+"IfStatement ConditionalExpression UpdateExpression MemberExpression
+",1
+"BlockStatement IfStatement ConditionalExpression UpdateExpression
+",1
+"IfStatement ConditionalExpression MemberExpression Identifier
+",1
+"IfStatement ReturnStatement CallExpression Literal
+",1
+"Program EmptyStatement Program ExpressionStatement
+",0
+"FunctionDeclaration BlockStatement ExpressionStatement UnaryExpression
+",0
+"IfStatement BlockStatement ThrowStatement BinaryExpression
+",0
+"ThrowStatement BinaryExpression BinaryExpression Literal
+",0
+"ThrowStatement BinaryExpression Literal Program
+",0
+"IfStatement IfStatement BlockStatement ThrowStatement
+",0
+"BlockStatement ThrowStatement BinaryExpression Identifier
+",0
+"ThrowStatement BinaryExpression BinaryExpression Identifier
+",0
+"BlockStatement ThrowStatement BinaryExpression Literal
+",0
+"IfStatement BlockStatement ForInStatement VariableDeclaration
+",0
+"BlockStatement ReturnStatement AssignmentExpression CallExpression
+",0
+"ReturnStatement ObjectExpression Property Literal
+",0
+"ReturnStatement ObjectExpression Property ObjectExpression
+",0
+"Property CallExpression BinaryExpression CallExpression
+",0
+"FunctionDeclaration BlockStatement ReturnStatement MemberExpression
+",0
+"ReturnStatement MemberExpression CallExpression Literal
+",0
+"IfStatement BlockStatement ContinueStatement Program
+",0
+"IfStatement BlockStatement ThrowStatement CallExpression
+",0
+"ThrowStatement CallExpression Identifier Program
+",0
+"ExpressionStatement CallExpression ArrayExpression MemberExpression
+",0
+"ExpressionStatement CallExpression ArrayExpression Identifier
+",0
+"FunctionExpression BlockStatement Program ExpressionStatement
+",0
+"BlockStatement IfStatement UnaryExpression UpdateExpression
+",0
+"UnaryExpression UpdateExpression Identifier Program
+",0
+"ThrowStatement CallExpression Literal Program
+",0
+"BlockStatement ReturnStatement AssignmentExpression NewExpression
+",0
+"ReturnStatement AssignmentExpression NewExpression Identifier
+",0
+"FunctionDeclaration BlockStatement IfStatement ThrowStatement
+",0
+"IfStatement ThrowStatement Literal Program
+",0
+"ExpressionStatement CallExpression LogicalExpression ThisExpression
+",0
+"UpdateExpression MemberExpression ThisExpression Program
+",0
+"ExpressionStatement UpdateExpression MemberExpression ThisExpression
+",0
+"BlockStatement ForInStatement MemberExpression ThisExpression
+",0
+"ForInStatement BlockStatement ExpressionStatement CallExpression
+",0
+"AssignmentExpression CallExpression CallExpression NewExpression
+",0
+"CallExpression CallExpression NewExpression MemberExpression
+",0
+"VariableDeclarator BinaryExpression UpdateExpression MemberExpression
+",0
+"BinaryExpression UpdateExpression MemberExpression Identifier
+",0
+"FunctionDeclaration BlockStatement FunctionDeclaration Identifier
+",0
+"BlockStatement FunctionDeclaration BlockStatement FunctionDeclaration
+",0
+"TryStatement BlockStatement IfStatement IfStatement
+",0
+"VariableDeclarator UnaryExpression CallExpression Identifier
+",0
+"IfStatement IfStatement IfStatement IfStatement
+",0
+"ExpressionStatement AssignmentExpression UnaryExpression CallExpression
+",0
+"UnaryExpression CallExpression BinaryExpression Identifier
+",0
+"UnaryExpression CallExpression BinaryExpression Literal
+",0
+"IfStatement BlockStatement WhileStatement BlockStatement
+",0
+"BlockStatement WhileStatement BlockStatement VariableDeclaration
+",0
+"WhileStatement BlockStatement VariableDeclaration VariableDeclarator
+",0
+"VariableDeclarator UnaryExpression CallExpression MemberExpression
+",0
+"WhileStatement BlockStatement IfStatement Identifier
+",0
+"IfStatement UnaryExpression BinaryExpression Identifier
+",0
+"ExpressionStatement AssignmentExpression AssignmentExpression LogicalExpression
+",0
+"BlockStatement ExpressionStatement CallExpression ArrayExpression
+",0
+"CallExpression ArrayExpression BinaryExpression MemberExpression
+",0
+"ExpressionStatement CallExpression ArrayExpression BinaryExpression
+",0
+"CallExpression ArrayExpression BinaryExpression Literal
+",0
+"VariableDeclarator UnaryExpression UnaryExpression MemberExpression
+",0
+"LogicalExpression CallExpression MemberExpression NewExpression
+",0
+"ExpressionStatement AssignmentExpression NewExpression CallExpression
+",0
+"NewExpression CallExpression Identifier Program
+",0
+"ExpressionStatement CallExpression NewExpression Identifier
+",0
+"CallExpression ArrayExpression MemberExpression ThisExpression
+",0
+"ReturnStatement NewExpression MemberExpression ThisExpression
+",0
+"BlockStatement ExpressionStatement CallExpression NewExpression
+",0
+"IfStatement IfStatement MemberExpression MemberExpression
+",0
+"VariableDeclarator ConditionalExpression FunctionExpression Identifier
+",0
+"VariableDeclarator LogicalExpression MemberExpression ThisExpression
+",0
+"VariableDeclaration VariableDeclarator ConditionalExpression NewExpression
+",0
+"ConditionalExpression NewExpression CallExpression Identifier
+",0
+"VariableDeclarator ConditionalExpression NewExpression CallExpression
+",0
+"VariableDeclarator ConditionalExpression NewExpression MemberExpression
+",0
+"VariableDeclarator NewExpression MemberExpression ThisExpression
+",0
+"ExpressionStatement CallExpression ArrayExpression Literal
+",0
+"LogicalExpression CallExpression NewExpression Identifier
+",0
+"LogicalExpression CallExpression NewExpression MemberExpression
+",0
+"ExpressionStatement LogicalExpression CallExpression NewExpression
+",0
+"AssignmentExpression ConditionalExpression ObjectExpression Program
+",0
+"BlockStatement ThrowStatement NewExpression MemberExpression
+",0
+"IfStatement BlockStatement ThrowStatement NewExpression
+",0
+"ThrowStatement NewExpression MemberExpression Identifier
+",0
+"CallExpression NewExpression Literal Program
+",0
+"CallExpression NewExpression ObjectExpression Property
+",0
+"ExpressionStatement CallExpression NewExpression ObjectExpression
+",0
+"NewExpression ObjectExpression Property Identifier
+",0
+"BlockStatement IfStatement CallExpression ThisExpression
+",0
+"VariableDeclarator ArrayExpression MemberExpression ThisExpression
+",0
+"VariableDeclarator ArrayExpression MemberExpression Identifier
+",0
+"ExpressionStatement CallExpression NewExpression Literal
+",0
+"ExpressionStatement AssignmentExpression NewExpression MemberExpression
+",0
+"BlockStatement ExpressionStatement AssignmentExpression UpdateExpression
+",0
+"AssignmentExpression UpdateExpression Identifier Program
+",0
+"NewExpression ObjectExpression Property Literal
+",0
+"NewExpression ObjectExpression Property ThisExpression
+",0
+"ExpressionStatement CallExpression ArrayExpression Program
+",0
+"BlockStatement ExpressionStatement AssignmentExpression ThisExpression
+",0
+"SwitchCase IfStatement BinaryExpression Identifier
+",0
+"SwitchCase IfStatement BinaryExpression MemberExpression
+",0
+"SwitchCase IfStatement BlockStatement ExpressionStatement
+",0
+"SwitchCase ExpressionStatement AssignmentExpression MemberExpression
+",0
+"SwitchCase ExpressionStatement AssignmentExpression CallExpression
+",0
+"ExpressionStatement CallExpression NewExpression MemberExpression
+",0
+"ReturnStatement CallExpression BinaryExpression CallExpression
+",0
+"CallExpression BinaryExpression CallExpression ArrayExpression
+",0
+"TryStatement BlockStatement IfStatement BinaryExpression
+",0
+"ExpressionStatement AssignmentExpression ThisExpression Program
+",0
+"IfStatement BlockStatement ForInStatement MemberExpression
+",0
+"ForInStatement MemberExpression ThisExpression Program
+",0
+"VariableDeclarator NewExpression ThisExpression Program
+",0
+"VariableDeclarator FunctionExpression BlockStatement Program
+",0
+"CatchClause BlockStatement IfStatement MemberExpression
+",0
+"CatchClause BlockStatement IfStatement BlockStatement
+",0
+"CatchClause BlockStatement IfStatement BinaryExpression
+",0
+"BlockStatement ThrowStatement Identifier Program
+",0
+"VariableDeclarator FunctionExpression BlockStatement ForInStatement
+",0
+"ExpressionStatement AssignmentExpression UnaryExpression UnaryExpression
+",0
+"MemberExpression MemberExpression ArrayExpression Program
+",0
+"ReturnStatement FunctionExpression BlockStatement TryStatement
+",0
+"VariableDeclarator NewExpression ObjectExpression Property
+",0
+"VariableDeclaration VariableDeclarator NewExpression ObjectExpression
+",0
+"NewExpression ObjectExpression Property MemberExpression
+",0
+"VariableDeclaration VariableDeclarator NewExpression ConditionalExpression
+",0
+"NewExpression ConditionalExpression BinaryExpression MemberExpression
+",0
+"NewExpression ConditionalExpression BinaryExpression Identifier
+",0
+"VariableDeclarator NewExpression ConditionalExpression NewExpression
+",0
+"NewExpression ConditionalExpression ConditionalExpression BinaryExpression
+",0
+"VariableDeclarator NewExpression ConditionalExpression ConditionalExpression
+",0
+"NewExpression ConditionalExpression ConditionalExpression MemberExpression
+",0
+"NewExpression ConditionalExpression ConditionalExpression NewExpression
+",0
+"ConditionalExpression ConditionalExpression NewExpression MemberExpression
+",0
+"VariableDeclarator NewExpression ConditionalExpression BinaryExpression
+",0
+"NewExpression ConditionalExpression NewExpression Identifier
+",0
+"ExpressionStatement CallExpression ArrayExpression ObjectExpression
+",0
+"ArrayExpression ObjectExpression Property Literal
+",0
+"CallExpression ArrayExpression ObjectExpression Property
+",0
+"ArrayExpression ObjectExpression Property Identifier
+",0
+"ThrowStatement NewExpression BinaryExpression Literal
+",0
+"ThrowStatement NewExpression Literal Program
+",0
+"ExpressionStatement AssignmentExpression ConditionalExpression NewExpression
+",0
+"IfStatement BlockStatement ReturnStatement FunctionExpression
+",0
+"FunctionExpression BlockStatement WhileStatement MemberExpression
+",0
+"AssignmentExpression FunctionExpression BlockStatement WhileStatement
+",0
+"BlockStatement TryStatement BlockStatement SwitchStatement
+",0
+"TryStatement BlockStatement SwitchStatement SwitchCase
+",0
+"CatchClause BlockStatement ReturnStatement BinaryExpression
+",0
+"CallExpression Identifier Program EmptyStatement
+",0
+"Program ExpressionStatement AssignmentExpression Literal
+",0
+"ExpressionStatement AssignmentExpression NewExpression Literal
+",0
+"ForStatement AssignmentExpression BinaryExpression Identifier
+",0
+"BlockStatement BreakStatement Program FunctionDeclaration
+",0
+"IfStatement BreakStatement Program FunctionDeclaration
+",0
+"IfStatement BinaryExpression BinaryExpression Literal
+",0
+"FunctionDeclaration BlockStatement ExpressionStatement UpdateExpression
+",0
+"WhileStatement ExpressionStatement CallExpression Identifier
+",0
+"BlockStatement WhileStatement BinaryExpression Identifier
+",0
+"ForStatement AssignmentExpression BinaryExpression MemberExpression
+",0
+"IfStatement ExpressionStatement UpdateExpression Identifier
+",0
+"BlockStatement IfStatement CallExpression Literal
+",0
+"BlockStatement FunctionDeclaration BlockStatement SwitchStatement
+",0
+"FunctionDeclaration BlockStatement SwitchStatement SwitchCase
+",0
+"SwitchCase BreakStatement Program FunctionDeclaration
+",0
+"SwitchCase Literal Program FunctionDeclaration
+",0
+"SwitchCase ExpressionStatement AssignmentExpression Literal
+",0
+"SwitchStatement SwitchCase IfStatement Identifier
+",0
+"SwitchCase ExpressionStatement CallExpression FunctionExpression
+",0
+"SwitchCase ExpressionStatement CallExpression Literal
+",0
+"WhileStatement Identifier Program FunctionDeclaration
+",0
+"Program FunctionDeclaration BlockStatement WhileStatement
+",0
+"Program VariableDeclaration VariableDeclarator Identifier
+",0
+"VariableDeclarator Identifier Program VariableDeclaration
+",0
+"Program VariableDeclaration VariableDeclarator ObjectExpression
+",0
+"Program ExpressionStatement AssignmentExpression ObjectExpression
+",0
+"IfStatement BinaryExpression MemberExpression CallExpression
+",0
+"Program ExpressionStatement CallExpression Literal
+",0
+"FunctionDeclaration BlockStatement WhileStatement AssignmentExpression
+",0
+"WhileStatement AssignmentExpression MemberExpression MemberExpression
+",0
+"WhileStatement AssignmentExpression MemberExpression Literal
+",0
+"Program FunctionDeclaration BlockStatement EmptyStatement
+",0
+"BlockStatement EmptyStatement Program FunctionDeclaration
+",0
+BlockStatement ExpressionStatement CallExpression CallExpression,0
+"ThisExpression Program FunctionDeclaration Identifier
+",0
+FunctionDeclaration BlockStatement IfStatement IfStatement,0
+"Program ExpressionStatement AssignmentExpression Identifier
+",0
+"AssignmentExpression Literal Program IfStatement
+",0
+"Program IfStatement BinaryExpression UnaryExpression
+",0
+"Identifier Program IfStatement BinaryExpression
+",0
+"Program IfStatement BinaryExpression Literal
+",0
+"Identifier Program IfStatement BlockStatement
+",0
+"FunctionExpression Identifier Program IfStatement
+",0
+"MemberExpression ThisExpression Program IfStatement
+",0
+"ThisExpression Program IfStatement BlockStatement
+",0
+"CallExpression Literal Program IfStatement
+",0
+"IfStatement BlockStatement FunctionDeclaration Identifier
+",0
+"FunctionDeclaration Identifier Program IfStatement
+",0
+"Program IfStatement BlockStatement FunctionDeclaration
+",0
+"IfStatement BlockStatement FunctionDeclaration BlockStatement
+",0
+"ConditionalExpression Identifier Program IfStatement
+",0
+"VariableDeclarator ConditionalExpression ThisExpression Program
+",0
+"ArrayExpression Program IfStatement BlockStatement
+",0
+"UpdateExpression Identifier Program IfStatement
+",0
+"VariableDeclarator Identifier Program IfStatement
+",0
+"MemberExpression Literal Program IfStatement
+",0
+"BinaryExpression Identifier Program IfStatement
+",0
+"ConditionalExpression Literal Program IfStatement
+",0
+"WhileStatement Identifier Program IfStatement
+",0
+"BreakStatement Program IfStatement BlockStatement
+",0
+"Property Identifier Program VariableDeclaration
+",0
+"Identifier Program VariableDeclaration VariableDeclarator
+",0
+"MemberExpression Identifier Program VariableDeclaration
+",0
+"CallExpression Literal Program VariableDeclaration
+",0
+"ThisExpression Program VariableDeclaration VariableDeclarator
+",0
+"Literal Program VariableDeclaration VariableDeclarator
+",0
+"CallExpression Identifier Program VariableDeclaration
+",0
+"Property FunctionExpression BlockStatement SwitchStatement
+",0
+"SwitchCase BreakStatement Program VariableDeclaration
+",0
+"BreakStatement Program VariableDeclaration VariableDeclarator
+",0
+"ReturnStatement Program ExpressionStatement AssignmentExpression
+",0
+"BlockStatement Program ExpressionStatement AssignmentExpression
+",0
+"Identifier Program IfStatement UnaryExpression
+",0
+"Program IfStatement UnaryExpression MemberExpression
+",0
+"ObjectExpression Program IfStatement UnaryExpression
+",0
+"NewExpression Identifier Program EmptyStatement
+",0
+"TryStatement BlockStatement IfStatement MemberExpression
+",0
+"IfStatement BlockStatement WhileStatement MemberExpression
+",0
+"NewExpression MemberExpression ThisExpression Program
+",0
+"ConditionalExpression NewExpression CallExpression Literal
+",0
+"BinaryExpression UnaryExpression MemberExpression ThisExpression
+",0
+"SwitchCase ExpressionStatement LogicalExpression LogicalExpression
+",0
+"IfStatement BlockStatement ThrowStatement Literal
+",0
+"ThrowStatement Literal Program ExpressionStatement
+",0
+"BlockStatement ThrowStatement Literal Program
+",0
+"TryStatement BlockStatement FunctionDeclaration Identifier
+",0
+"BlockStatement TryStatement BlockStatement FunctionDeclaration
+",0
+"TryStatement BlockStatement FunctionDeclaration BlockStatement
+",0
+"CatchClause BlockStatement ReturnStatement Program
+",0
+"IfStatement IfStatement BinaryExpression CallExpression
+",0
+"MemberExpression ThisExpression Program VariableDeclaration
+",0
+"Property Literal Program VariableDeclaration
+",0
+"BinaryExpression Literal Program VariableDeclaration
+",0
+"ReturnStatement Program VariableDeclaration VariableDeclarator
+",0
+"FunctionExpression Identifier Program VariableDeclaration
+",0
+"BinaryExpression Identifier Program VariableDeclaration
+",0
+"ReturnStatement Identifier Program VariableDeclaration
+",0
+"ReturnStatement Literal Program VariableDeclaration
+",0
+"NewExpression Identifier Program VariableDeclaration
+",0
+"IfStatement Identifier Program VariableDeclaration
+",0
+"AssignmentExpression Identifier Program VariableDeclaration
+",0
+"AssignmentExpression Literal Program VariableDeclaration
+",0
+"CallExpression ThisExpression Program VariableDeclaration
+",0
+"MemberExpression Literal Program VariableDeclaration
+",0
+"ConditionalExpression Literal Program VariableDeclaration
+",0
+"IfStatement CallExpression BinaryExpression BinaryExpression
+",0
+"IfStatement CallExpression BinaryExpression Literal
+",0
+"ArrayExpression Program VariableDeclaration VariableDeclarator
+",0
+"ForInStatement BlockStatement IfStatement IfStatement
+",0
+"ForInStatement BlockStatement IfStatement UnaryExpression
+",0
+"IfStatement ContinueStatement Program VariableDeclaration
+",0
+"BlockStatement ForInStatement BlockStatement ForInStatement
+",0
+"ForInStatement BlockStatement ForInStatement MemberExpression
+",0
+"ForInStatement BlockStatement ForInStatement BlockStatement
+",0
+"ForInStatement BlockStatement ForStatement VariableDeclaration
+",0
+"BlockStatement ForInStatement BlockStatement ForStatement
+",0
+"ForInStatement BlockStatement ForStatement BinaryExpression
+",0
+"UpdateExpression Identifier Program VariableDeclaration
+",0
+"ForInStatement BlockStatement ForStatement BlockStatement
+",0
+"CallExpression NewExpression MemberExpression MemberExpression
+",0
+"NewExpression Literal Program VariableDeclaration
+",0
+"ExpressionStatement AssignmentExpression ArrayExpression NewExpression
+",0
+"ArrayExpression NewExpression Identifier Program
+",0
+"ArrayExpression NewExpression Literal Program
+",0
+"ArrayExpression NewExpression MemberExpression Identifier
+",0
+"AssignmentExpression ArrayExpression NewExpression MemberExpression
+",0
+"Literal Program IfStatement UnaryExpression
+",0
+"LogicalExpression Identifier Program IfStatement
+",0
+"AssignmentExpression LogicalExpression ThisExpression Program
+",0
+"CallExpression ThisExpression Program IfStatement
+",0
+"Program IfStatement LogicalExpression BinaryExpression
+",0
+"UnaryExpression Identifier Program IfStatement
+",0
+"Literal Program IfStatement LogicalExpression
+",0
+"Program IfStatement LogicalExpression UnaryExpression
+",0
+"ExpressionStatement AssignmentExpression LogicalExpression ThisExpression
+",0
+"LogicalExpression ThisExpression Program IfStatement
+",0
+"VariableDeclarator ArrayExpression Program IfStatement
+",0
+"VariableDeclarator Literal Program IfStatement
+",0
+"ExpressionStatement CallExpression MemberExpression ArrayExpression
+",0
+"ForInStatement BlockStatement IfStatement AssignmentExpression
+",0
+"CallExpression ConditionalExpression BinaryExpression CallExpression
+",0
+"ExpressionStatement CallExpression MemberExpression BinaryExpression
+",0
+"Program VariableDeclaration VariableDeclarator FunctionExpression
+",0
+"ObjectExpression Program VariableDeclaration VariableDeclarator
+",0
+"ForInStatement Identifier Program VariableDeclaration
+",0
+"IfStatement IfStatement CallExpression Identifier
+",0
+"LogicalExpression Literal Program VariableDeclaration
+",0
+"ExpressionStatement AssignmentExpression ConditionalExpression ArrayExpression
+",0
+"ConditionalExpression ArrayExpression CallExpression MemberExpression
+",0
+"AssignmentExpression ConditionalExpression ArrayExpression CallExpression
+",0
+"ConditionalExpression ArrayExpression CallExpression Literal
+",0
+"ConditionalExpression Identifier Program VariableDeclaration
+",0
+"ExpressionStatement AssignmentExpression LogicalExpression ObjectExpression
+",0
+"LogicalExpression ObjectExpression Program VariableDeclaration
+",0
+"VariableDeclarator ObjectExpression Program VariableDeclaration
+",0
+"FunctionDeclaration BlockStatement EmptyStatement Program
+",0
+"EmptyStatement Program FunctionDeclaration BlockStatement
+",0
+"ExpressionStatement AssignmentExpression NewExpression BinaryExpression
+",0
+"CatchClause BlockStatement VariableDeclaration VariableDeclarator
+",0
+"VariableDeclarator NewExpression BinaryExpression Identifier
+",0
+ExpressionStatement AssignmentExpression MemberExpression Identifier,0
+"WhileStatement BlockStatement ExpressionStatement CallExpression
+",0
+"ReturnStatement Identifier Program FunctionDeclaration
+",0
+"Literal Program FunctionDeclaration Identifier
+",0
+"BlockStatement VariableDeclaration VariableDeclarator ObjectExpression
+",0
+"CallExpression FunctionExpression BlockStatement FunctionDeclaration
+",0
+"FunctionExpression BlockStatement FunctionDeclaration Identifier
+",0
+"FunctionDeclaration Identifier Program ExpressionStatement
+",0
+"FunctionExpression BlockStatement FunctionDeclaration BlockStatement
+",0
+"AssignmentExpression ObjectExpression Program ExpressionStatement
+",0
+"BlockStatement ExpressionStatement UnaryExpression MemberExpression
+",0
+"ExpressionStatement UnaryExpression MemberExpression Identifier
+",0
+"BlockStatement FunctionDeclaration BlockStatement ReturnStatement
+",0
+"FunctionExpression BlockStatement IfStatement UnaryExpression
+",0
+"IfStatement UnaryExpression MemberExpression Identifier
+",0
+"BlockStatement IfStatement UnaryExpression MemberExpression
+",0
+"BlockStatement IfStatement BlockStatement ThrowStatement
+",0
+"BlockStatement ThrowStatement BinaryExpression BinaryExpression
+",0
+"IfStatement IfStatement BinaryExpression Identifier
+",0
+"BinaryExpression BinaryExpression CallExpression MemberExpression
+",0
+"VariableDeclarator BinaryExpression BinaryExpression CallExpression
+",0
+"VariableDeclarator BinaryExpression BinaryExpression Literal
+",0
+"VariableDeclaration VariableDeclarator BinaryExpression Identifier
+",0
+"BlockStatement IfStatement MemberExpression MemberExpression
+",0
+"IfStatement MemberExpression MemberExpression Identifier
+",0
+"BlockStatement IfStatement BlockStatement TryStatement
+",0
+"TryStatement BlockStatement ExpressionStatement CallExpression
+",0
+"BlockStatement TryStatement BlockStatement ReturnStatement
+",0
+"TryStatement BlockStatement ReturnStatement CallExpression
+",0
+"TryStatement BlockStatement ExpressionStatement UnaryExpression
+",0
+"AssignmentExpression ObjectExpression Property Identifier
+",0
+"Property Identifier Program ExpressionStatement
+",0
+"FunctionExpression BlockStatement ExpressionStatement UnaryExpression
+",0
+"IfStatement LogicalExpression BinaryExpression UnaryExpression
+",0
+"IfStatement LogicalExpression BinaryExpression Literal
+",0
+"LogicalExpression BinaryExpression UnaryExpression Identifier
+",0
+"UnaryExpression Identifier Program ExpressionStatement
+",0
+"ExpressionStatement CallExpression FunctionExpression Identifier
+",0
+"VariableDeclarator CallExpression Identifier Program
+",0
+"ForInStatement VariableDeclaration VariableDeclarator Identifier
+",0
+"BlockStatement IfStatement BlockStatement ForInStatement
+",0
+"BlockStatement ForInStatement Identifier Program
+",0
+"IfStatement BlockStatement ForInStatement BlockStatement
+",0
+"ForInStatement BlockStatement IfStatement CallExpression
+",0
+"BlockStatement ForInStatement BlockStatement IfStatement
+",0
+"IfStatement CallExpression Identifier Program
+",0
+"ForInStatement BlockStatement IfStatement BlockStatement
+",0
+"FunctionDeclaration BlockStatement ReturnStatement Identifier
+",0
+"ReturnStatement Identifier Program ExpressionStatement
+",0
+"AssignmentExpression ObjectExpression Property FunctionExpression
+",0
+"Property FunctionExpression BlockStatement Program
+",0
+"BlockStatement Program ExpressionStatement CallExpression
+",0
+"VariableDeclaration VariableDeclarator ObjectExpression Property
+",0
+"ObjectExpression Property FunctionExpression Identifier
+",0
+"VariableDeclarator ObjectExpression Property FunctionExpression
+",0
+"Property FunctionExpression BlockStatement ReturnStatement
+",0
+"BlockStatement ReturnStatement AssignmentExpression MemberExpression
+",0
+"FunctionExpression BlockStatement ReturnStatement AssignmentExpression
+",0
+"ReturnStatement AssignmentExpression MemberExpression Identifier
+",0
+"Property FunctionExpression BlockStatement ExpressionStatement
+",0
+"VariableDeclarator ObjectExpression Property Identifier
+",0
+"Property FunctionExpression Identifier Program
+",0
+"FunctionExpression BlockStatement ReturnStatement ObjectExpression
+",0
+"BlockStatement ReturnStatement ObjectExpression Property
+",0
+"ObjectExpression Property ObjectExpression Property
+",0
+"Property ObjectExpression Property Identifier
+",0
+"Property ObjectExpression Property Literal
+",0
+"Property FunctionExpression BlockStatement VariableDeclaration
+",0
+"VariableDeclaration VariableDeclarator CallExpression Identifier
+",0
+"IfStatement BlockStatement IfStatement Identifier
+",0
+"Property FunctionExpression BlockStatement IfStatement
+",0
+"IfStatement BlockStatement IfStatement BlockStatement
+",0
+"VariableDeclarator ObjectExpression Property CallExpression
+",0
+"Property CallExpression MemberExpression Identifier
+",0
+"Property CallExpression BinaryExpression Literal
+",0
+"VariableDeclarator ObjectExpression Property ObjectExpression
+",0
+"Property ObjectExpression Program ExpressionStatement
+",0
+"Property FunctionExpression BlockStatement TryStatement
+",0
+"CatchClause BlockStatement ExpressionStatement CallExpression
+",0
+"TryStatement CatchClause BlockStatement ExpressionStatement
+",0
+"ExpressionStatement CallExpression BinaryExpression Identifier
+",0
+"IfStatement BlockStatement IfStatement LogicalExpression
+",0
+"IfStatement LogicalExpression Identifier Program
+",0
+"LogicalExpression BinaryExpression MemberExpression MemberExpression
+",0
+"IfStatement BlockStatement ExpressionStatement LogicalExpression
+",0
+"BlockStatement ExpressionStatement LogicalExpression CallExpression
+",0
+"LogicalExpression CallExpression MemberExpression Identifier
+",0
+"IfStatement BlockStatement IfStatement IfStatement
+",0
+"IfStatement IfStatement UnaryExpression Identifier
+",0
+"ExpressionStatement LogicalExpression CallExpression MemberExpression
+",0
+"ExpressionStatement LogicalExpression CallExpression Identifier
+",0
+"BlockStatement IfStatement UnaryExpression Identifier
+",0
+"ExpressionStatement AssignmentExpression CallExpression Literal
+",0
+"MemberExpression MemberExpression CallExpression MemberExpression
+",0
+"CallExpression MemberExpression Literal Program
+",0
+"CallExpression MemberExpression MemberExpression CallExpression
+",0
+"MemberExpression MemberExpression CallExpression Identifier
+",0
+"ReturnStatement Program ExpressionStatement CallExpression
+",0
+"FunctionDeclaration BlockStatement ForStatement VariableDeclaration
+",0
+"ForStatement VariableDeclaration VariableDeclarator Identifier
+",0
+"BlockStatement ForStatement VariableDeclaration VariableDeclarator
+",0
+"ForStatement BlockStatement IfStatement LogicalExpression
+",0
+"IfStatement LogicalExpression LogicalExpression BinaryExpression
+",0
+"ContinueStatement Program ExpressionStatement CallExpression
+",0
+"ExpressionStatement AssignmentExpression BinaryExpression Literal
+",0
+"AssignmentExpression BinaryExpression MemberExpression Identifier
+",0
+"BlockStatement IfStatement BlockStatement BreakStatement
+",0
+"ExpressionStatement AssignmentExpression BinaryExpression BinaryExpression
+",0
+"BinaryExpression BinaryExpression BinaryExpression CallExpression
+",0
+"BinaryExpression BinaryExpression CallExpression Identifier
+",0
+"ExpressionStatement AssignmentExpression BinaryExpression Identifier
+",0
+"FunctionDeclaration BlockStatement ForInStatement VariableDeclaration
+",0
+"BlockStatement FunctionDeclaration BlockStatement ForInStatement
+",0
+"FunctionDeclaration BlockStatement ForInStatement BlockStatement
+",0
+"ArrayExpression MemberExpression Identifier Program
+",0
+"ArrayExpression Identifier Program ExpressionStatement
+",0
+"FunctionExpression BlockStatement ReturnStatement Identifier
+",0
+"VariableDeclaration VariableDeclarator ConditionalExpression MemberExpression
+",0
+"VariableDeclaration VariableDeclarator ConditionalExpression CallExpression
+",0
+"ConditionalExpression CallExpression Identifier Program
+",0
+"CallExpression FunctionExpression BlockStatement TryStatement
+",0
+"VariableDeclarator ConditionalExpression CallExpression MemberExpression
+",0
+"VariableDeclaration VariableDeclarator ConditionalExpression ObjectExpression
+",0
+"ConditionalExpression ObjectExpression Program ExpressionStatement
+",0
+"BlockStatement TryStatement BlockStatement IfStatement
+",0
+"TryStatement BlockStatement IfStatement BlockStatement
+",0
+"BlockStatement ForInStatement VariableDeclaration VariableDeclarator
+",0
+"ForInStatement Identifier Program ExpressionStatement
+",0
+"BlockStatement IfStatement CallExpression Identifier
+",0
+"BlockStatement IfStatement LogicalExpression MemberExpression
+",0
+"LogicalExpression BinaryExpression UnaryExpression MemberExpression
+",0
+"ExpressionStatement AssignmentExpression MemberExpression ThisExpression
+",0
+"VariableDeclarator FunctionExpression BlockStatement ExpressionStatement
+",0
+"ExpressionStatement AssignmentExpression ObjectExpression Program
+",0
+"ObjectExpression Program ExpressionStatement CallExpression
+",0
+"ExpressionStatement AssignmentExpression ConditionalExpression Identifier
+",0
+"BlockStatement ExpressionStatement AssignmentExpression ConditionalExpression
+",0
+"AssignmentExpression ConditionalExpression Literal Program
+",0
+"ExpressionStatement AssignmentExpression ConditionalExpression Literal
+",0
+"ConditionalExpression Literal Program ExpressionStatement
+",0
+"VariableDeclarator FunctionExpression BlockStatement IfStatement
+",0
+"FunctionExpression BlockStatement IfStatement ExpressionStatement
+",0
+"Property FunctionExpression BlockStatement ForStatement
+",0
+"FunctionExpression BlockStatement ForStatement VariableDeclaration
+",0
+"ForStatement VariableDeclaration VariableDeclarator Literal
+",0
+"UpdateExpression Identifier Program ExpressionStatement
+",0
+"FunctionExpression BlockStatement ForStatement BlockStatement
+",0
+"NewExpression Identifier Program ExpressionStatement
+",0
+"AssignmentExpression NewExpression Literal Program
+",0
+"ObjectExpression Property ArrayExpression Program
+",0
+"ArrayExpression Program ExpressionStatement CallExpression
+",0
+"ObjectExpression Property ObjectExpression Program
+",0
+"VariableDeclaration VariableDeclarator LogicalExpression MemberExpression
+",0
+"VariableDeclaration VariableDeclarator LogicalExpression CallExpression
+",0
+"LogicalExpression CallExpression MemberExpression ThisExpression
+",0
+"BlockStatement VariableDeclaration VariableDeclarator LogicalExpression
+",0
+"VariableDeclarator LogicalExpression CallExpression MemberExpression
+",0
+"MemberExpression MemberExpression ThisExpression Program
+",0
+"CallExpression MemberExpression MemberExpression ThisExpression
+",0
+"VariableDeclarator MemberExpression MemberExpression ThisExpression
+",0
+"BinaryExpression MemberExpression ThisExpression Program
+",0
+"BlockStatement ExpressionStatement CallExpression LogicalExpression
+",0
+"CallExpression LogicalExpression Identifier Program
+",0
+"LogicalExpression ThisExpression Program ExpressionStatement
+",0
+"BlockStatement ReturnStatement Program ExpressionStatement
+",0
+"IfStatement UnaryExpression Identifier Program
+",0
+"AssignmentExpression BinaryExpression UpdateExpression Identifier
+",0
+"UnaryExpression MemberExpression MemberExpression ThisExpression
+",0
+"BlockStatement ExpressionStatement UpdateExpression MemberExpression
+",0
+"IfStatement BlockStatement ExpressionStatement UpdateExpression
+",0
+"ExpressionStatement UpdateExpression MemberExpression Identifier
+",0
+"LogicalExpression MemberExpression ThisExpression Program
+",0
+"UpdateExpression MemberExpression Identifier Program
+",0
+"IfStatement BinaryExpression MemberExpression ThisExpression
+",0
+"ExpressionStatement LogicalExpression MemberExpression ThisExpression
+",0
+"CallExpression MemberExpression MemberExpression MemberExpression
+",0
+"IfStatement MemberExpression ThisExpression Program
+",0
+"BlockStatement ForInStatement MemberExpression Identifier
+",0
+"BlockStatement ForInStatement BlockStatement ExpressionStatement
+",0
+"IfStatement BlockStatement ForStatement VariableDeclaration
+",0
+"BlockStatement ExpressionStatement CallExpression ThisExpression
+",0
+"LogicalExpression BinaryExpression MemberExpression ThisExpression
+",0
+"IfStatement LogicalExpression MemberExpression ThisExpression
+",0
+"ReturnStatement ConditionalExpression MemberExpression Identifier
+",0
+"ReturnStatement ConditionalExpression MemberExpression MemberExpression
+",0
+"BlockStatement ReturnStatement ConditionalExpression Literal
+",0
+"IfStatement BinaryExpression CallExpression MemberExpression
+",0
+"CallExpression CallExpression MemberExpression MemberExpression
+",0
+"AssignmentExpression CallExpression CallExpression Literal
+",0
+"CallExpression NewExpression Identifier Program
+",0
+"NewExpression MemberExpression Identifier Program
+",0
+"VariableDeclaration VariableDeclarator BinaryExpression UpdateExpression
+",0
+"ExpressionStatement LogicalExpression Identifier Program
+",0
+"BlockStatement IfStatement LogicalExpression UnaryExpression
+",0
+"ExpressionStatement CallExpression BinaryExpression MemberExpression
+",0
+"ExpressionStatement CallExpression MemberExpression CallExpression
+",0
+"FunctionDeclaration BlockStatement TryStatement BlockStatement
+",0
+"BlockStatement FunctionDeclaration BlockStatement TryStatement
+",0
+"CallExpression CallExpression Literal Program
+",0
+"IfStatement IfStatement LogicalExpression BinaryExpression
+",0
+"VariableDeclaration VariableDeclarator BinaryExpression Literal
+",0
+"VariableDeclarator BinaryExpression CallExpression MemberExpression
+",0
+"VariableDeclaration VariableDeclarator UnaryExpression CallExpression
+",0
+"UnaryExpression CallExpression MemberExpression Identifier
+",0
+"UnaryExpression CallExpression Literal Program
+",0
+"BlockStatement VariableDeclaration VariableDeclarator UnaryExpression
+",0
+"VariableDeclarator CallExpression BinaryExpression Identifier
+",0
+"VariableDeclarator CallExpression BinaryExpression Literal
+",0
+"ExpressionStatement AssignmentExpression CallExpression BinaryExpression
+",0
+"BlockStatement IfStatement IfStatement IfStatement
+",0
+"IfStatement IfStatement IfStatement BinaryExpression
+",0
+"IfStatement IfStatement IfStatement BlockStatement
+",0
+"VariableDeclarator NewExpression MemberExpression Identifier
+",0
+"AssignmentExpression CallExpression CallExpression MemberExpression
+",0
+"CallExpression CallExpression BinaryExpression Identifier
+",0
+"FunctionDeclaration BlockStatement TryStatement CatchClause
+",0
+"CallExpression BinaryExpression MemberExpression Identifier
+",0
+"BlockStatement IfStatement BlockStatement WhileStatement
+",0
+"UnaryExpression CallExpression Identifier Program
+",0
+"AssignmentExpression CallExpression BinaryExpression BinaryExpression
+",0
+"AssignmentExpression CallExpression BinaryExpression Literal
+",0
+"ExpressionStatement AssignmentExpression ArrayExpression Program
+",0
+"BlockStatement ThrowStatement NewExpression Identifier
+",0
+"BlockStatement ThrowStatement NewExpression BinaryExpression
+",0
+"NewExpression BinaryExpression BinaryExpression Literal
+",0
+"FunctionDeclaration BlockStatement IfStatement Identifier
+",0
+"FunctionDeclaration BlockStatement ForStatement AssignmentExpression
+",0
+"AssignmentExpression LogicalExpression MemberExpression Identifier
+",0
+"BlockStatement ExpressionStatement AssignmentExpression AssignmentExpression
+",0
+"AssignmentExpression LogicalExpression ObjectExpression Program
+",0
+"VariableDeclaration VariableDeclarator ObjectExpression Program
+",0
+"AssignmentExpression FunctionExpression BlockStatement ForStatement
+",0
+"MemberExpression BinaryExpression Identifier Program
+",0
+"ConditionalExpression BinaryExpression BinaryExpression BinaryExpression
+",0
+"VariableDeclarator ConditionalExpression Literal Program
+",0
+"BlockStatement IfStatement LogicalExpression Identifier
+",0
+"ForStatement BlockStatement IfStatement IfStatement
+",0
+"IfStatement LogicalExpression LogicalExpression UnaryExpression
+",0
+"LogicalExpression UnaryExpression Identifier Program
+",0
+"FunctionExpression BlockStatement ForStatement BinaryExpression
+",0
+"FunctionExpression BlockStatement ForStatement UpdateExpression
+",0
+"ExpressionStatement AssignmentExpression LogicalExpression Identifier
+",0
+"BlockStatement ExpressionStatement AssignmentExpression LogicalExpression
+",0
+"AssignmentExpression LogicalExpression MemberExpression MemberExpression
+",0
+"ExpressionStatement AssignmentExpression LogicalExpression MemberExpression
+",0
+"AssignmentExpression FunctionExpression BlockStatement ForInStatement
+",0
+"FunctionExpression BlockStatement ForInStatement Identifier
+",0
+"FunctionExpression BlockStatement ForInStatement BlockStatement
+",0
+"CallExpression ArrayExpression Program ExpressionStatement
+",0
+"CallExpression ArrayExpression MemberExpression Identifier
+",0
+"AssignmentExpression LogicalExpression CallExpression MemberExpression
+",0
+"CallExpression MemberExpression NewExpression Identifier
+",0
+"CallExpression FunctionExpression BlockStatement ForInStatement
+",0
+"ForInStatement BlockStatement ExpressionStatement AssignmentExpression
+",0
+"UnaryExpression Literal Program ExpressionStatement
+",0
+"VariableDeclaration VariableDeclarator ArrayExpression Identifier
+",0
+"VariableDeclarator ArrayExpression Identifier Program
+",0
+"BlockStatement ReturnStatement NewExpression Identifier
+",0
+"AssignmentExpression LogicalExpression Literal Program
+",0
+"ExpressionStatement AssignmentExpression ConditionalExpression BinaryExpression
+",0
+"AssignmentExpression LogicalExpression Identifier Program
+",0
+"ExpressionStatement AssignmentExpression LogicalExpression CallExpression
+",0
+"MemberExpression NewExpression Identifier Program
+",0
+"IfStatement BlockStatement IfStatement UnaryExpression
+",0
+"IfStatement UnaryExpression CallExpression MemberExpression
+",0
+"CatchClause BlockStatement ExpressionStatement AssignmentExpression
+",0
+"IfStatement BlockStatement IfStatement CallExpression
+",0
+"VariableDeclarator LogicalExpression Identifier Program
+",0
+"VariableDeclaration VariableDeclarator CallExpression ThisExpression
+",0
+"MemberExpression CallExpression Literal Program
+",0
+"ExpressionStatement CallExpression CallExpression Identifier
+",0
+"VariableDeclaration VariableDeclarator CallExpression CallExpression
+",0
+"VariableDeclarator CallExpression CallExpression MemberExpression
+",0
+"ConditionalExpression BinaryExpression UnaryExpression Identifier
+",0
+"AssignmentExpression ConditionalExpression BinaryExpression Literal
+",0
+"AssignmentExpression ConditionalExpression Identifier Program
+",0
+"ExpressionStatement AssignmentExpression LogicalExpression Literal
+",0
+"AssignmentExpression ConditionalExpression BinaryExpression UnaryExpression
+",0
+"ExpressionStatement AssignmentExpression LogicalExpression LogicalExpression
+",0
+"LogicalExpression LogicalExpression Identifier Program
+",0
+"LogicalExpression LogicalExpression CallExpression MemberExpression
+",0
+"AssignmentExpression LogicalExpression LogicalExpression Identifier
+",0
+"AssignmentExpression LogicalExpression LogicalExpression CallExpression
+",0
+"AssignmentExpression ConditionalExpression BinaryExpression Identifier
+",0
+"FunctionExpression BlockStatement ReturnStatement NewExpression
+",0
+"BlockStatement ReturnStatement NewExpression MemberExpression
+",0
+"VariableDeclaration VariableDeclarator NewExpression MemberExpression
+",0
+"CallExpression ArrayExpression Identifier Program
+",0
+"VariableDeclaration VariableDeclarator LogicalExpression Identifier
+",0
+"ArrayExpression MemberExpression ThisExpression Program
+",0
+"VariableDeclaration VariableDeclarator ConditionalExpression FunctionExpression
+",0
+"ConditionalExpression FunctionExpression Identifier Program
+",0
+"ConditionalExpression FunctionExpression BlockStatement VariableDeclaration
+",0
+"VariableDeclarator ConditionalExpression FunctionExpression BlockStatement
+",0
+"ConditionalExpression FunctionExpression BlockStatement ForStatement
+",0
+"AssignmentExpression NewExpression CallExpression Identifier
+",0
+"NewExpression CallExpression Literal Program
+",0
+"ConditionalExpression FunctionExpression BlockStatement ExpressionStatement
+",0
+"VariableDeclarator ConditionalExpression BinaryExpression UnaryExpression
+",0
+"VariableDeclaration VariableDeclarator ConditionalExpression Literal
+",0
+"VariableDeclaration VariableDeclarator MemberExpression ThisExpression
+",0
+"VariableDeclarator LogicalExpression MemberExpression Identifier
+",0
+"ConditionalExpression NewExpression MemberExpression Identifier
+",0
+"VariableDeclaration VariableDeclarator BinaryExpression MemberExpression
+",0
+"ExpressionStatement AssignmentExpression BinaryExpression MemberExpression
+",0
+"ExpressionStatement CallExpression ThisExpression Program
+",0
+"BlockStatement ExpressionStatement LogicalExpression Identifier
+",0
+"AssignmentExpression ConditionalExpression NewExpression Identifier
+",0
+"AssignmentExpression MemberExpression MemberExpression ThisExpression
+",0
+"UnaryExpression MemberExpression ThisExpression Program
+",0
+"ObjectExpression Property ThisExpression Program
+",0
+"IfStatement BlockStatement ReturnStatement CallExpression
+",0
+"VariableDeclarator ConditionalExpression Identifier Program
+",0
+"BlockStatement VariableDeclaration VariableDeclarator ThisExpression
+",0
+"VariableDeclarator ThisExpression Program ExpressionStatement
+",0
+"IfStatement IfStatement BinaryExpression MemberExpression
+",0
+"NewExpression Literal Program ExpressionStatement
+",0
+"VariableDeclaration VariableDeclarator ThisExpression Program
+",0
+"ReturnStatement CallExpression MemberExpression MemberExpression
+",0
+"IfStatement BlockStatement IfStatement MemberExpression
+",0
+"ReturnStatement CallExpression CallExpression Identifier
+",0
+"ThrowStatement NewExpression Identifier Program
+",0
+"CallExpression BinaryExpression MemberExpression ThisExpression
+",0
+"AssignmentExpression CallExpression BinaryExpression MemberExpression
+",0
+"Property ThisExpression Program ExpressionStatement
+",0
+"ObjectExpression Property CallExpression MemberExpression
+",0
+"ObjectExpression Property CallExpression Literal
+",0
+"AssignmentExpression ObjectExpression Property CallExpression
+",0
+"Property CallExpression Literal Program
+",0
+"MemberExpression MemberExpression MemberExpression ThisExpression
+",0
+"AssignmentExpression ThisExpression Program ExpressionStatement
+",0
+"BlockStatement ExpressionStatement AssignmentExpression ArrayExpression
+",0
+"AssignmentExpression ArrayExpression Literal Program
+",0
+"ExpressionStatement AssignmentExpression ArrayExpression Literal
+",0
+"BlockStatement ReturnStatement MemberExpression ThisExpression
+",0
+"BlockStatement IfStatement BlockStatement SwitchStatement
+",0
+"BlockStatement SwitchStatement Identifier Program
+",0
+"IfStatement BlockStatement SwitchStatement SwitchCase
+",0
+"SwitchStatement SwitchCase MemberExpression Identifier
+",0
+"BlockStatement SwitchStatement SwitchCase MemberExpression
+",0
+"SwitchCase MemberExpression Identifier Program
+",0
+"SwitchStatement SwitchCase ExpressionStatement LogicalExpression
+",0
+"BlockStatement SwitchStatement SwitchCase ExpressionStatement
+",0
+"SwitchCase ExpressionStatement LogicalExpression MemberExpression
+",0
+"BlockStatement SwitchStatement SwitchCase IfStatement
+",0
+"SwitchStatement SwitchCase IfStatement BinaryExpression
+",0
+"SwitchStatement SwitchCase IfStatement BlockStatement
+",0
+"BlockStatement SwitchStatement SwitchCase BreakStatement
+",0
+"SwitchCase BreakStatement Program ExpressionStatement
+",0
+"SwitchStatement SwitchCase ExpressionStatement AssignmentExpression
+",0
+"SwitchCase ExpressionStatement AssignmentExpression Identifier
+",0
+"SwitchCase ExpressionStatement LogicalExpression CallExpression
+",0
+"SwitchStatement SwitchCase BreakStatement Program
+",0
+"BreakStatement Program ExpressionStatement CallExpression
+",0
+"ExpressionStatement LogicalExpression CallExpression BinaryExpression
+",0
+"AssignmentExpression AssignmentExpression Identifier Program
+",0
+"ExpressionStatement AssignmentExpression AssignmentExpression FunctionExpression
+",0
+"AssignmentExpression AssignmentExpression FunctionExpression BlockStatement
+",0
+"AssignmentExpression NewExpression MemberExpression Identifier
+",0
+"VariableDeclarator CallExpression FunctionExpression BlockStatement
+",0
+"FunctionExpression BlockStatement ReturnStatement FunctionExpression
+",0
+"ReturnStatement FunctionExpression Identifier Program
+",0
+"VariableDeclaration VariableDeclarator CallExpression FunctionExpression
+",0
+"BlockStatement ReturnStatement FunctionExpression Identifier
+",0
+"BlockStatement ReturnStatement FunctionExpression BlockStatement
+",0
+"ReturnStatement FunctionExpression BlockStatement ExpressionStatement
+",0
+"ExpressionStatement AssignmentExpression ConditionalExpression LogicalExpression
+",0
+"ConditionalExpression LogicalExpression Identifier Program
+",0
+"ConditionalExpression LogicalExpression MemberExpression Identifier
+",0
+"AssignmentExpression ConditionalExpression LogicalExpression MemberExpression
+",0
+"ExpressionStatement AssignmentExpression ConditionalExpression MemberExpression
+",0
+"AssignmentExpression ConditionalExpression LogicalExpression Identifier
+",0
+"AssignmentExpression ConditionalExpression MemberExpression Identifier
+",0
+"CallExpression FunctionExpression BlockStatement ForStatement
+",0
+"FunctionDeclaration BlockStatement ReturnStatement ObjectExpression
+",0
+"ReturnStatement ObjectExpression Property Identifier
+",0
+"BinaryExpression UnaryExpression Literal Program
+",0
+"FunctionExpression BlockStatement ExpressionStatement LogicalExpression
+",0
+"VariableDeclarator ConditionalExpression LogicalExpression LogicalExpression
+",0
+"VariableDeclaration VariableDeclarator ConditionalExpression LogicalExpression
+",0
+"ConditionalExpression LogicalExpression LogicalExpression MemberExpression
+",0
+"ConditionalExpression LogicalExpression BinaryExpression UnaryExpression
+",0
+"VariableDeclarator ConditionalExpression LogicalExpression BinaryExpression
+",0
+"ConditionalExpression LogicalExpression BinaryExpression Literal
+",0
+"VariableDeclarator CallExpression FunctionExpression Identifier
+",0
+"ObjectExpression Property CallExpression FunctionExpression
+",0
+"Property CallExpression FunctionExpression BlockStatement
+",0
+"IfStatement BlockStatement ExpressionStatement UnaryExpression
+",0
+"BlockStatement ReturnStatement CallExpression ArrayExpression
+",0
+"VariableDeclarator LogicalExpression CallExpression Identifier
+",0
+"VariableDeclarator LogicalExpression CallExpression Literal
+",0
+"ExpressionStatement AssignmentExpression ConditionalExpression CallExpression
+",0
+"ConditionalExpression CallExpression Literal Program
+",0
+"ReturnStatement CallExpression BinaryExpression Literal
+",0
+"BlockStatement ReturnStatement CallExpression BinaryExpression
+",0
+"CallExpression BinaryExpression CallExpression MemberExpression
+",0
+"BinaryExpression CallExpression ArrayExpression Identifier
+",0
+"ReturnStatement MemberExpression MemberExpression ThisExpression
+",0
+"ExpressionStatement UnaryExpression MemberExpression MemberExpression
+",0
+"BlockStatement IfStatement MemberExpression ThisExpression
+",0
+"ForInStatement MemberExpression Identifier Program
+",0
+"TryStatement CatchClause BlockStatement IfStatement
+",0
+"VariableDeclarator FunctionExpression BlockStatement VariableDeclaration
+",0
+"BlockStatement ReturnStatement BinaryExpression BinaryExpression
+",0
+"FunctionDeclaration BlockStatement ReturnStatement BinaryExpression
+",0
+"ReturnStatement BinaryExpression BinaryExpression MemberExpression
+",0
+"BinaryExpression MemberExpression MemberExpression MemberExpression
+",0
+"ReturnStatement BinaryExpression MemberExpression MemberExpression
+",0
+"IfStatement BinaryExpression CallExpression Identifier
+",0
+"VariableDeclarator FunctionExpression BlockStatement ForStatement
+",0
+"ConditionalExpression LogicalExpression BinaryExpression Identifier
+",0
+"FunctionDeclaration BlockStatement Program ExpressionStatement
+",0
+"UnaryExpression UnaryExpression Identifier Program
+",0
+"BlockStatement ThrowStatement NewExpression Literal
+",0
+"IfStatement ReturnStatement Program ExpressionStatement
+",0
+"ExpressionStatement CallExpression CallExpression MemberExpression
+",0
+"CallExpression MemberExpression MemberExpression ArrayExpression
+",0
+"MemberExpression ArrayExpression Program ExpressionStatement
+",0
+"BlockStatement IfStatement ReturnStatement Program
+",0
+"VariableDeclarator CallExpression CallExpression Identifier
+",0
+"VariableDeclarator CallExpression CallExpression Literal
+",0
+"AssignmentExpression FunctionExpression BlockStatement Program
+",0
+"AssignmentExpression CallExpression MemberExpression NewExpression
+",0
+"FunctionDeclaration BlockStatement ReturnStatement FunctionExpression
+",0
+"ReturnStatement FunctionExpression BlockStatement VariableDeclaration
+",0
+"CatchClause BlockStatement Program ExpressionStatement
+",0
+"ForStatement VariableDeclaration VariableDeclarator MemberExpression
+",0
+"FunctionExpression BlockStatement ForInStatement VariableDeclaration
+",0
+"Property FunctionExpression BlockStatement ForInStatement
+",0
+"ForInStatement BlockStatement IfStatement LogicalExpression
+",0
+"BlockStatement IfStatement LogicalExpression CallExpression
+",0
+"VariableDeclarator ObjectExpression Property Literal
+",0
+"BlockStatement IfStatement LogicalExpression LogicalExpression
+",0
+"LogicalExpression UnaryExpression CallExpression Identifier
+",0
+"LogicalExpression LogicalExpression UnaryExpression CallExpression
+",0
+"LogicalExpression UnaryExpression CallExpression MemberExpression
+",0
+"IfStatement LogicalExpression UnaryExpression CallExpression
+",0
+"BlockStatement ExpressionStatement CallExpression ObjectExpression
+",0
+"CallExpression ObjectExpression Property MemberExpression
+",0
+"CallExpression ObjectExpression Property Identifier
+",0
+"ConditionalExpression NewExpression Identifier Program
+",0
+"ConditionalExpression BinaryExpression MemberExpression Identifier
+",0
+"ConditionalExpression ConditionalExpression BinaryExpression MemberExpression
+",0
+"LogicalExpression LogicalExpression MemberExpression Identifier
+",0
+"LogicalExpression BinaryExpression BinaryExpression CallExpression
+",0
+"BinaryExpression CallExpression MemberExpression NewExpression
+",0
+"ConditionalExpression ConditionalExpression BinaryExpression Identifier
+",0
+"ConditionalExpression ConditionalExpression MemberExpression Identifier
+",0
+"ConditionalExpression ConditionalExpression NewExpression Identifier
+",0
+"VariableDeclaration VariableDeclarator ArrayExpression Literal
+",0
+"VariableDeclarator ArrayExpression Literal Program
+",0
+"NewExpression BinaryExpression Identifier Program
+",0
+"IfStatement BinaryExpression UnaryExpression Identifier
+",0
+"ThrowStatement NewExpression BinaryExpression Identifier
+",0
+"IfStatement LogicalExpression UnaryExpression Identifier
+",0
+"AssignmentExpression FunctionExpression BlockStatement SwitchStatement
+",0
+"FunctionExpression BlockStatement SwitchStatement SwitchCase
+",0
+"SwitchCase ExpressionStatement CallExpression MemberExpression
+",0
+"SwitchStatement SwitchCase ExpressionStatement CallExpression
+",0
+"SwitchCase ExpressionStatement CallExpression BinaryExpression
+",0
+"MemberExpression Literal Program ExpressionStatement
+",0
+"VariableDeclaration VariableDeclarator LogicalExpression Literal
+",0
+"VariableDeclarator LogicalExpression Literal Program
+",0
+"BinaryExpression MemberExpression CallExpression Literal
+",0
+"AssignmentExpression ConditionalExpression NewExpression MemberExpression
+",0
+"ReturnStatement BinaryExpression CallExpression MemberExpression
+",0
+"ReturnStatement BinaryExpression CallExpression Identifier
+",0
+"BlockStatement ReturnStatement BinaryExpression Literal
+",0
+"IfStatement LogicalExpression LogicalExpression LogicalExpression
+",0
+"LogicalExpression LogicalExpression UnaryExpression Identifier
+",0
+"LogicalExpression LogicalExpression LogicalExpression BinaryExpression
+",0
+"IfStatement LogicalExpression LogicalExpression CallExpression
+",0
+"IfStatement BlockStatement ForStatement AssignmentExpression
+",0
+"LogicalExpression UnaryExpression BinaryExpression Identifier
+",0
+"ReturnStatement FunctionExpression BlockStatement ReturnStatement
+",0
+"ReturnStatement BinaryExpression BinaryExpression BinaryExpression
+",0
+"BinaryExpression BinaryExpression CallExpression Literal
+",0
+"BlockStatement ReturnStatement BinaryExpression CallExpression
+",0
+"IfStatement IfStatement LogicalExpression Identifier
+",0
+"BlockStatement IfStatement ReturnStatement Literal
+",0
+"ReturnStatement Literal Program ExpressionStatement
+",0
+"IfStatement ReturnStatement CallExpression MemberExpression
+",0
+"WhileStatement MemberExpression Identifier Program
+",0
+"BlockStatement IfStatement BreakStatement Program
+",0
+"AssignmentExpression MemberExpression Literal Program
+",0
+"MemberExpression CallExpression BinaryExpression CallExpression
+",0
+"MemberExpression CallExpression BinaryExpression Literal
+",0
+"SwitchStatement SwitchCase Literal Program
+",0
+"SwitchStatement SwitchCase ReturnStatement CallExpression
+",0
+"BlockStatement SwitchStatement SwitchCase ReturnStatement
+",0
+"SwitchCase ReturnStatement CallExpression MemberExpression
+",0
+"SwitchStatement SwitchCase ReturnStatement Literal
+",0
+"TryStatement CatchClause BlockStatement ReturnStatement
+",0
+"BlockStatement ReturnStatement BinaryExpression Identifier
+",0
